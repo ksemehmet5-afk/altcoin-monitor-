@@ -1,0 +1,43 @@
+name: Altcoin Monitor
+
+on:
+  schedule:
+    - cron: '*/20 * * * *'   # her 20 dakikada bir (UTC)
+  workflow_dispatch: {}       # Actions sekmesinden elle "Run workflow" ile test etmek için
+
+# state dosyalarını (monitor_state/*.json, signals_log.csv) repoya geri
+# yazabilmek için write izni gerekiyor
+permissions:
+  contents: write
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18   # 20 dakikalık pencereyi asmasin diye guvenlik siniri
+
+    steps:
+      - name: Repoyu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıkları kur
+        run: pip install requests
+
+      - name: Monitörü çalıştır
+        env:
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          SENDER_APP_PASSWORD: ${{ secrets.SENDER_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python altcoin_oi_funding_monitor.py
+
+      - name: Durumu (state) repoya geri kaydet
+        run: |
+          git config user.name "altcoin-monitor-bot"
+          git config user.email "actions@github.com"
+          git add monitor_state/ || true
+          git diff --cached --quiet && echo "Değişiklik yok, commit atlanıyor" || git commit -m "Otomatik durum güncellemesi [skip ci]"
+          git push

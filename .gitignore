@@ -1,0 +1,4 @@
+email_config.json
+monitor_log.txt
+__pycache__/
+*.pyc
