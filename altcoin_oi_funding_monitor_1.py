@@ -1,7 +1,26 @@
 """
-ALTCOIN OI + FUNDING RATE MONİTÖRÜ
+ALTCOIN OI + FUNDING RATE MONİTÖRÜ (OKX SÜRÜMÜ)
 =====================================
-Binance Futures'taki TÜM USDT-M perpetual coinleri tarar.
+OKX'teki TÜM USDT-M linear perpetual (SWAP) coinleri tarar.
+
+NEDEN OKX (BINANCE DEĞİL)?
+  Binance Futures API'si (fapi.binance.com) ABD IP adreslerinden gelen
+  isteklere 451 (Unavailable For Legal Reasons) hatasi donduruyor.
+  GitHub Actions'in ucretsiz "hosted runner"lari ABD veri merkezlerinde
+  calistigi icin Binance orada calismiyor. OKX bu kisitlamayi uygulamiyor
+  ve derivatives hacminde Binance'ten sonra en buyuk ikinci borsa
+  (Bybit'in onunde), bu yuzden OKX'e gecildi.
+
+  ONEMLI VERI FARKLARI (Binance'e gore):
+    - Sembol formati artik "BTCUSDT" degil "BTC-USDT-SWAP" seklinde.
+    - OI (open interest) degisim yuzdesi, OKX'in ccy-seviyesi
+      (tum kontrat tipleri toplami) open-interest-volume endpoint'inden
+      geliyor; tek bir perpetual kontrata degil, o coinin OKX'teki TUM
+      vadeli islem kontratlarinin toplam acik pozisyonuna bakiyor. Binance
+      surumu kadar hassas olmayabilir ama yon (artis/azalis) guvenilir.
+    - Top trader long/short orani, OKX'in "long-short-account-ratio-contract"
+      endpoint'inden geliyor (hesap bazli oran, Binance ile birebir ayni
+      metodoloji degil ama benzer bir sinyal).
 
 SİNYAL MANTIĞI (kullanıcı tarafından belirlendi):
   - Open Interest son 2 saatte (%5+) ARTMIŞ  (yeni pozisyon açılıyor, tasfiye değil)
@@ -43,8 +62,8 @@ from datetime import datetime, timezone, timedelta
 
 import requests
 
-MONITOR_VERSION = "2026-07-04-v5-liq-heatmap"
-BASE_URL = "https://fapi.binance.com"
+MONITOR_VERSION = "2026-07-05-v6-okx"
+BASE_URL = "https://www.okx.com"
 STATE_DIR = "monitor_state"
 SIGNALS_CSV = os.path.join(STATE_DIR, "signals_log.csv")
 LAST_SIGNALS_JSON = os.path.join(STATE_DIR, "last_signals.json")
@@ -88,78 +107,131 @@ def log(msg: str) -> None:
 
 
 # ---------------------------------------------------------------------------
-# BINANCE API
+# OKX API
 # ---------------------------------------------------------------------------
 def get_all_perpetual_symbols(session: requests.Session) -> list[str]:
-    resp = session.get(f"{BASE_URL}/fapi/v1/exchangeInfo", timeout=15)
+    """OKX'teki tum USDT marjinli linear perpetual (SWAP) kontratlarini doner.
+    Ornek instId: 'BTC-USDT-SWAP', 'DOGE-USDT-SWAP'."""
+    resp = session.get(
+        f"{BASE_URL}/api/v5/public/instruments",
+        params={"instType": "SWAP"},
+        timeout=15,
+    )
     resp.raise_for_status()
-    data = resp.json()
+    payload = resp.json()
+    if payload.get("code") != "0":
+        raise RuntimeError(f"OKX instruments-info hata dondurdu: {payload.get('msg')}")
+    data = payload["data"]
     symbols = [
-        s["symbol"] for s in data["symbols"]
-        if s.get("contractType") == "PERPETUAL"
-        and s.get("quoteAsset") == "USDT"
-        and s.get("status") == "TRADING"
+        s["instId"] for s in data
+        if s.get("state") == "live"
+        and s.get("settleCcy") == "USDT"
+        and s.get("ctType") == "linear"
     ]
     return sorted(symbols)
 
 
+def _fetch_okx_candles(session: requests.Session, inst_id: str, bar: str, limit: int) -> list:
+    """OKX mumlarini ceker ve Binance'in kline formatina normalize eder:
+    [openTime, open, high, low, close, volume, 0(kullanilmiyor), quoteVolume]
+    boylece compute_volume_profile / compute_liquidation_heatmap gibi asagi
+    akis fonksiyonlari degismeden calisir. OKX mumlari YENIDEN ESKIYE dogru
+    doner, bu yuzden burada eskiden yeniye ceviriyoruz (Binance ile ayni sira)."""
+    resp = session.get(
+        f"{BASE_URL}/api/v5/market/candles",
+        params={"instId": inst_id, "bar": bar, "limit": limit},
+        timeout=10,
+    )
+    resp.raise_for_status()
+    payload = resp.json()
+    if payload.get("code") != "0":
+        return []
+    raw = payload["data"]  # [ts, o, h, l, c, vol, volCcy, volCcyQuote, confirm], yeniden->eskiye
+    raw.reverse()  # eskiden -> yeniye (Binance sirasiyla ayni)
+    normalized = []
+    for c in raw:
+        ts, o, h, l, close, vol, vol_ccy, vol_ccy_quote = c[0], c[1], c[2], c[3], c[4], c[5], c[6], c[7]
+        normalized.append([ts, o, h, l, close, vol, 0, vol_ccy_quote])
+    return normalized
+
+
 def fetch_symbol_snapshot(session: requests.Session, symbol: str) -> dict | None:
-    """Bir sembol için güncel fiyat, OI değişimi, funding rate, hacim profili
-    seviyeleri ve top trader long/short oranını döner."""
+    """Bir sembol (OKX instId, ör. 'DOGE-USDT-SWAP') için güncel fiyat,
+    OI değişimi, funding rate, hacim profili seviyeleri ve top trader
+    long/short oranını döner."""
     try:
+        base_ccy = symbol.split("-")[0]  # 'DOGE-USDT-SWAP' -> 'DOGE'
+
         # --- OHLCV (fiyat + hacim profili için 24 saatlik pencere) ---
-        kl_resp = session.get(
-            f"{BASE_URL}/fapi/v1/klines",
-            params={"symbol": symbol, "interval": KLINES_INTERVAL, "limit": VP_LOOKBACK_BARS},
-            timeout=10,
-        )
-        kl_resp.raise_for_status()
-        klines = kl_resp.json()
+        klines = _fetch_okx_candles(session, symbol, KLINES_INTERVAL, VP_LOOKBACK_BARS)
         if len(klines) < 10:
             return None
         current_price = float(klines[-1][4])  # son mumun kapanışı
-        # klines[i] = [openTime, open, high, low, close, volume, closeTime,
-        #              quoteAssetVolume, trades, takerBuyBase, takerBuyQuote, ignore]
         quote_volume_24h = sum(float(k[7]) for k in klines)
 
         # --- Funding Rate (güncel/tahmini) ---
         fr_resp = session.get(
-            f"{BASE_URL}/fapi/v1/premiumIndex",
-            params={"symbol": symbol},
+            f"{BASE_URL}/api/v5/public/funding-rate",
+            params={"instId": symbol},
             timeout=10,
         )
         fr_resp.raise_for_status()
-        funding_rate = float(fr_resp.json()["lastFundingRate"])
+        fr_payload = fr_resp.json()
+        if fr_payload.get("code") != "0" or not fr_payload.get("data"):
+            return None
+        funding_rate = float(fr_payload["data"][0]["fundingRate"])
 
-        # --- Open Interest geçmişi (kısa pencere, tek istek yeterli) ---
-        oi_resp = session.get(
-            f"{BASE_URL}/futures/data/openInterestHist",
-            params={"symbol": symbol, "period": KLINES_INTERVAL, "limit": OI_LOOKBACK_BARS + 1},
+        # --- Guncel Open Interest degeri (USD) ---
+        oi_now_resp = session.get(
+            f"{BASE_URL}/api/v5/public/open-interest",
+            params={"instType": "SWAP", "instId": symbol},
             timeout=10,
         )
-        oi_resp.raise_for_status()
-        oi_data = oi_resp.json()
-        if len(oi_data) < 2:
+        oi_now_resp.raise_for_status()
+        oi_now_payload = oi_now_resp.json()
+        if oi_now_payload.get("code") != "0" or not oi_now_payload.get("data"):
             return None
-        oi_start = float(oi_data[0]["sumOpenInterest"])
-        oi_end = float(oi_data[-1]["sumOpenInterest"])
+        oi_value_usd = float(oi_now_payload["data"][0].get("oiUsd", 0.0))
+
+        # --- Open Interest gecmisi (2 saatlik pencere, ccy-seviyesi, 5dk barlar) ---
+        # NOT: Bu OKX endpoint'i coin (ccy) seviyesinde calisiyor, yani bu coinin
+        # OKX'teki TUM vadeli islem kontratlarinin toplam acik pozisyonunu veriyor
+        # (sadece bu tek perpetual kontrati degil). Binance surumu kadar hassas
+        # olmayabilir ama artis/azalis yonu guvenilir bir sinyal olarak kullanilabilir.
+        oi_hist_resp = session.get(
+            f"{BASE_URL}/api/v5/rubik/stat/contracts/open-interest-volume",
+            params={"ccy": base_ccy, "period": "5m"},
+            timeout=10,
+        )
+        oi_hist_resp.raise_for_status()
+        oi_hist_payload = oi_hist_resp.json()
+        if oi_hist_payload.get("code") != "0":
+            return None
+        oi_hist = oi_hist_payload.get("data", [])  # [[ts, oi_usd, vol_usd], ...] yeniden->eskiye
+        bars_needed = OI_LOOKBACK_BARS * 3 + 1  # 8x15dk = 2 saat = 24x5dk + 1
+        oi_hist = oi_hist[:bars_needed]
+        oi_hist.reverse()  # eskiden -> yeniye
+        if len(oi_hist) < 2:
+            return None
+        oi_start = float(oi_hist[0][1])
+        oi_end = float(oi_hist[-1][1])
         if oi_start <= 0:
             return None
         oi_change_pct = (oi_end - oi_start) / oi_start
-        oi_value_usd = float(oi_data[-1].get("sumOpenInterestValue", oi_end * current_price))
 
-        # --- Top Trader Long/Short Pozisyon Oranı (bilgi amaçlı, gerçek Binance verisi) ---
+        # --- Top Trader Long/Short Hesap Oranı (bilgi amaçlı) ---
         top_ratio = None
         try:
             ratio_resp = session.get(
-                f"{BASE_URL}/futures/data/topLongShortPositionRatio",
-                params={"symbol": symbol, "period": KLINES_INTERVAL, "limit": 1},
+                f"{BASE_URL}/api/v5/rubik/stat/contracts/long-short-account-ratio-contract",
+                params={"instId": symbol, "period": "5m", "limit": 1},
                 timeout=10,
             )
             ratio_resp.raise_for_status()
-            ratio_data = ratio_resp.json()
+            ratio_payload = ratio_resp.json()
+            ratio_data = ratio_payload.get("data", []) if ratio_payload.get("code") == "0" else []
             if ratio_data:
-                top_ratio = float(ratio_data[-1]["longShortRatio"])
+                top_ratio = float(ratio_data[0][1])
         except requests.exceptions.RequestException:
             pass  # bu bilgi opsiyonel, hata olursa sinyali engellemesin
 
@@ -210,15 +282,27 @@ def compute_volume_profile(klines: list) -> list[float]:
 def fetch_oi_history_long(session: requests.Session, symbol: str, bars: int = VP_LOOKBACK_BARS) -> list[dict]:
     """Hacim profili penceresiyle aynı uzunlukta (24 saat) OI geçmişi çeker.
     Sadece filtreden geçen (watchlist adayı olan) semboller için çağrılır -
-    tüm 529 sembolde kullanılırsa API yükü çok artar."""
+    tüm sembollerde kullanılırsa API yükü çok artar.
+
+    NOT: OKX'in ccy-seviyesi open-interest-volume endpoint'i 15 dakikalik
+    bar desteklemiyor (5m/1H/1D secenekleri var). 24 saatlik pencere icin
+    1 saatlik barlar kullaniliyor (24 bar), bu da compute_liquidation_heatmap
+    icindeki OI-delta hesabini Binance surumune gore daha kaba (coarse) yapar
+    ama likidasyon TAHMINI zaten kesin veri degil, kabul edilebilir bir yaklasim."""
     try:
+        base_ccy = symbol.split("-")[0]
         resp = session.get(
-            f"{BASE_URL}/futures/data/openInterestHist",
-            params={"symbol": symbol, "period": KLINES_INTERVAL, "limit": bars},
+            f"{BASE_URL}/api/v5/rubik/stat/contracts/open-interest-volume",
+            params={"ccy": base_ccy, "period": "1H"},
             timeout=10,
         )
         resp.raise_for_status()
-        return resp.json()
+        payload = resp.json()
+        if payload.get("code") != "0":
+            return []
+        raw = payload.get("data", [])[:24]  # son 24 saat, yeniden->eskiye
+        raw.reverse()  # eskiden -> yeniye (Binance sozlugu formatiyla uyum icin donusturuyoruz)
+        return [{"sumOpenInterest": item[1]} for item in raw]
     except requests.exceptions.RequestException:
         return []
 
