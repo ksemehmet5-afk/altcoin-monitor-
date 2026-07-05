@@ -1,4 +1,3 @@
-name: Altcoin Monitor 
  
 on: 
   schedule: 
@@ -17,23 +16,19 @@ jobs:
       uses: actions/setup-python@v5 
       with: 
         python-version: '3.10' 
-    - name: Warp VPN Kur (Binance 451 Engeli Icin) 
+    - name: Geliümiü VPN ve Kçsçtlamasçz Proxy Kur 
       run: | 
-        sudo apt-get update && sudo apt-get install -y curl 
-        curl -fsSL https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg 
-        echo "deb [signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.minitor.d/cloudflare-warp.list 
-        sudo apt-get update && sudo apt-get install -y cloudflare-warp 
-        warp-cli --accept-tos registration new 
-        warp-cli --accept-tos mode proxy 
-        warp-cli --accept-tos connect 
-    - name: Kutphaneleri Yukle 
+        sudo apt-get update 
+        sudo apt-get install -y openvpn openvpn-systemd-resolved tor 
+        sudo systemctl start tor 
+    - name: KÅtÅphaneleri YÅkle 
       run: | 
         python -m pip install --upgrade pip 
-        pip install requests ccxt pandas 
-    - name: Scripti Calistir 
+        pip install requests ccxt pandas PySocks 
+    - name: Scripti GÅvenli Äalçütçr 
       run: | 
-        export HTTP_PROXY="socks5://127.0.0.1:4000" 
-        export HTTPS_PROXY="socks5://127.0.0.1:4000" 
+        export HTTP_PROXY="socks5://127.0.0.1:9050" 
+        export HTTPS_PROXY="socks5://127.0.0.1:9050" 
         python altcoin_oi_funding_monitor_1.py 
     - name: Durumu Repoya Geri Kaydet 
       run: | 
