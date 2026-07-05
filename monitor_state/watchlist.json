@@ -1,23 +1,16 @@
 {
-  "CAP-USDT-SWAP_LONG": {
-    "symbol": "CAP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.02312175,
-    "created_time": "2026-07-05T09:40:20.232986+00:00",
-    "score": 70
-  },
-  "HMSTR-USDT-SWAP_LONG": {
-    "symbol": "HMSTR-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.00032686,
-    "created_time": "2026-07-05T09:40:20.232986+00:00",
-    "score": 46
-  },
   "PUMP-USDT-SWAP_LONG": {
     "symbol": "PUMP-USDT-SWAP",
     "direction": "LONG",
     "target_level": 0.001540375,
     "created_time": "2026-07-05T11:16:56.832631+00:00",
     "score": 51
+  },
+  "EIGEN-USDT-SWAP_LONG": {
+    "symbol": "EIGEN-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.23335250000000002,
+    "created_time": "2026-07-05T15:00:12.058050+00:00",
+    "score": 40
   }
 }
