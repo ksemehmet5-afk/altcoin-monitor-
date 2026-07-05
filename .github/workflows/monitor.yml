@@ -1,35 +1,36 @@
-name: Altcoin Monitor 
- 
+name: Altcoin Monitor
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "*/15 * * * *"
- 
-jobs: 
-  run-monitor: 
-    runs-on: ubuntu-latest 
-    permissions: 
-      contents: write 
-    steps: 
-    - name: Repoyu Klonla 
-      uses: actions/checkout@v4 
-    - name: Python Kur 
-      uses: actions/setup-python@v5 
-      with: 
-        python-version: '3.10' 
-    - name: Ktphaneleri Ykle 
-      run: | 
-        python -m pip install --upgrade pip 
-        pip install requests ccxt pandas PySocks 
-    - name: Scripti Alternatif Tnelle €alŸtr 
-      run: | 
-        python -c "import requests; r=requests.get('https://api.proxyscrape.com/v2/?request=displayproxies^&protocol=socks5^&timeout=10000^&country=all^&ssl=all^&anonymity=all'); open('proxies.txt', 'w').write(r.text)" 
-        export HTTP_PROXY="socks5://127.0.0.1:9050" 
-        export HTTPS_PROXY="socks5://127.0.0.1:9050" 
-        python altcoin_oi_funding_monitor_1.py || python altcoin_oi_funding_monitor_1.py 
-    - name: Durumu Repoya Geri Kaydet 
-      run: | 
-        git config --global user.name 'github-actions[bot]' 
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com' 
-        git add monitor_state/ || true 
-        git diff --quiet ^&^& git diff --staged --quiet || (git commit -m "Oto-Guncelleme: Monitor Durumu" ^& git push)
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Repoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Kutuphaneleri Yukle
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Scripti Calistir
+        run: |
+          python altcoin_oi_funding_monitor_1.py
+
+      - name: Durumu Repoya Geri Kaydet
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add monitor_state/ || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Oto-Guncelleme: Monitor Durumu" && git push)
