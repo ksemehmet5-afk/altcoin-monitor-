@@ -1,9 +1,9 @@
 {
-  "PEPE-USDT-SWAP_LONG": {
-    "symbol": "PEPE-USDT-SWAP",
+  "UB-USDT-SWAP_LONG": {
+    "symbol": "UB-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 2.679675e-06,
-    "created_time": "2026-07-07T22:37:19.103285+00:00",
-    "score": 54
+    "target_level": 0.083505,
+    "created_time": "2026-07-08T07:42:54.331753+00:00",
+    "score": 38
   }
 }
