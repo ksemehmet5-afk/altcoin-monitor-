@@ -1,16 +1,9 @@
 {
-  "LAB-USDT-SWAP_LONG": {
-    "symbol": "LAB-USDT-SWAP",
+  "JUP-USDT-SWAP_LONG": {
+    "symbol": "JUP-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.26514375,
-    "created_time": "2026-07-14T11:12:59.328149+00:00",
-    "score": 67
-  },
-  "PUMP-USDT-SWAP_LONG": {
-    "symbol": "PUMP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.00142395,
-    "created_time": "2026-07-14T11:12:59.328149+00:00",
-    "score": 56
+    "target_level": 0.20804,
+    "created_time": "2026-07-14T16:03:42.398963+00:00",
+    "score": 55
   }
 }
