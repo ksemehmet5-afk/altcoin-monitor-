@@ -19,12 +19,5 @@
     "target_level": 2.7383374999999998e-06,
     "created_time": "2026-07-15T16:53:12.586357+00:00",
     "score": 71
-  },
-  "PUMP-USDT-SWAP_LONG": {
-    "symbol": "PUMP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.001662475,
-    "created_time": "2026-07-15T16:53:12.586357+00:00",
-    "score": 53
   }
 }
