@@ -1,9 +1,16 @@
 {
-  "LAB-USDT-SWAP_LONG": {
-    "symbol": "LAB-USDT-SWAP",
+  "PUMP-USDT-SWAP_LONG": {
+    "symbol": "PUMP-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.25311249999999996,
-    "created_time": "2026-07-14T23:35:49.426788+00:00",
-    "score": 62
+    "target_level": 0.001632125,
+    "created_time": "2026-07-15T07:26:17.816464+00:00",
+    "score": 49
+  },
+  "RAVE-USDT-SWAP_LONG": {
+    "symbol": "RAVE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.2687975,
+    "created_time": "2026-07-15T07:26:17.816464+00:00",
+    "score": 56
   }
 }
