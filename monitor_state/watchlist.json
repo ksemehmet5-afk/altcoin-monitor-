@@ -1,1 +1,9 @@
-{}
+{
+  "BILL-USDT-SWAP_SHORT": {
+    "symbol": "BILL-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.02340275,
+    "created_time": "2026-07-17T23:12:12.519770+00:00",
+    "score": 51
+  }
+}
