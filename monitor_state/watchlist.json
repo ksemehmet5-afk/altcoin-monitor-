@@ -1,23 +1,9 @@
 {
-  "BILL-USDT-SWAP_SHORT": {
-    "symbol": "BILL-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.023500124999999997,
-    "created_time": "2026-07-17T07:33:42.266863+00:00",
-    "score": 62
-  },
-  "KAITO-USDT-SWAP_SHORT": {
-    "symbol": "KAITO-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.87712875,
-    "created_time": "2026-07-17T07:33:42.266863+00:00",
-    "score": 71
-  },
-  "PUMP-USDT-SWAP_LONG": {
-    "symbol": "PUMP-USDT-SWAP",
+  "UB-USDT-SWAP_LONG": {
+    "symbol": "UB-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.001636525,
-    "created_time": "2026-07-17T07:33:42.266863+00:00",
-    "score": 41
+    "target_level": 0.089299625,
+    "created_time": "2026-07-17T11:59:47.698546+00:00",
+    "score": 55
   }
 }
