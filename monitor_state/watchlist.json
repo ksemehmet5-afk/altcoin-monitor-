@@ -12,5 +12,33 @@
     "target_level": 1.693475,
     "created_time": "2026-07-18T10:48:55.280088+00:00",
     "score": 43
+  },
+  "ALLO-USDT-SWAP_SHORT": {
+    "symbol": "ALLO-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.47376725,
+    "created_time": "2026-07-18T14:37:12.087860+00:00",
+    "score": 71
+  },
+  "ETHFI-USDT-SWAP_SHORT": {
+    "symbol": "ETHFI-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.46585125000000005,
+    "created_time": "2026-07-18T14:37:12.087860+00:00",
+    "score": 51
+  },
+  "PUMP-USDT-SWAP_LONG": {
+    "symbol": "PUMP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.001653125,
+    "created_time": "2026-07-18T14:37:12.087860+00:00",
+    "score": 50
+  },
+  "WLD-USDT-SWAP_SHORT": {
+    "symbol": "WLD-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.37665000000000004,
+    "created_time": "2026-07-18T14:37:12.087860+00:00",
+    "score": 42
   }
 }
