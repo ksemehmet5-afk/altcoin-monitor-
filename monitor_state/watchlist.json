@@ -1,1 +1,16 @@
-{}
+{
+  "ALLO-USDT-SWAP_LONG": {
+    "symbol": "ALLO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.44940599999999997,
+    "created_time": "2026-07-18T10:48:55.280088+00:00",
+    "score": 60
+  },
+  "TRUMP-USDT-SWAP_SHORT": {
+    "symbol": "TRUMP-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 1.693475,
+    "created_time": "2026-07-18T10:48:55.280088+00:00",
+    "score": 43
+  }
+}
