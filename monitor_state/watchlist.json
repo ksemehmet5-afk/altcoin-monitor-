@@ -1,16 +1,16 @@
 {
-  "LAB-USDT-SWAP_LONG": {
-    "symbol": "LAB-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.1676775,
-    "created_time": "2026-07-19T11:39:37.126760+00:00",
-    "score": 57
-  },
   "PENGU-USDT-SWAP_LONG": {
     "symbol": "PENGU-USDT-SWAP",
     "direction": "LONG",
     "target_level": 0.006097275,
     "created_time": "2026-07-19T11:39:37.126760+00:00",
     "score": 59
+  },
+  "PI-USDT-SWAP_LONG": {
+    "symbol": "PI-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.09766375000000001,
+    "created_time": "2026-07-19T14:43:39.587142+00:00",
+    "score": 69
   }
 }
