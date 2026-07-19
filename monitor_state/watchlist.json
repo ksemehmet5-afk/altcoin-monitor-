@@ -1,1 +1,16 @@
-{}
+{
+  "BILL-USDT-SWAP_SHORT": {
+    "symbol": "BILL-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.026568,
+    "created_time": "2026-07-19T07:48:13.963973+00:00",
+    "score": 72
+  },
+  "KAITO-USDT-SWAP_SHORT": {
+    "symbol": "KAITO-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.93241125,
+    "created_time": "2026-07-19T07:48:13.963973+00:00",
+    "score": 72
+  }
+}
