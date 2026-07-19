@@ -1,16 +1,16 @@
 {
-  "PENGU-USDT-SWAP_LONG": {
-    "symbol": "PENGU-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.006097275,
-    "created_time": "2026-07-19T11:39:37.126760+00:00",
-    "score": 59
+  "BILL-USDT-SWAP_SHORT": {
+    "symbol": "BILL-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.02667875,
+    "created_time": "2026-07-19T18:06:07.968149+00:00",
+    "score": 62
   },
-  "PI-USDT-SWAP_LONG": {
-    "symbol": "PI-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.09766375000000001,
-    "created_time": "2026-07-19T14:43:39.587142+00:00",
-    "score": 69
+  "RE-USDT-SWAP_SHORT": {
+    "symbol": "RE-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.39545125000000003,
+    "created_time": "2026-07-19T18:06:07.968149+00:00",
+    "score": 66
   }
 }
