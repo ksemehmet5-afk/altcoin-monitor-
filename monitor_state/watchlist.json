@@ -1,16 +1,1 @@
-{
-  "BILL-USDT-SWAP_SHORT": {
-    "symbol": "BILL-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.02667875,
-    "created_time": "2026-07-19T18:06:07.968149+00:00",
-    "score": 62
-  },
-  "RE-USDT-SWAP_SHORT": {
-    "symbol": "RE-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.39545125000000003,
-    "created_time": "2026-07-19T18:06:07.968149+00:00",
-    "score": 66
-  }
-}
+{}
