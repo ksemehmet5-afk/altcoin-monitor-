@@ -1,1 +1,23 @@
-{}
+{
+  "KAITO-USDT-SWAP_LONG": {
+    "symbol": "KAITO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.9875125,
+    "created_time": "2026-07-21T23:43:26.427146+00:00",
+    "score": 42
+  },
+  "NIGHT-USDT-SWAP_SHORT": {
+    "symbol": "NIGHT-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.023591,
+    "created_time": "2026-07-21T23:43:26.427146+00:00",
+    "score": 71
+  },
+  "PUMP-USDT-SWAP_LONG": {
+    "symbol": "PUMP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.002005125,
+    "created_time": "2026-07-21T23:43:26.427146+00:00",
+    "score": 42
+  }
+}
