@@ -1,16 +1,9 @@
 {
-  "NIGHT-USDT-SWAP_LONG": {
-    "symbol": "NIGHT-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.021326175,
-    "created_time": "2026-07-23T06:43:37.555120+00:00",
-    "score": 55
-  },
-  "WLFI-USDT-SWAP_LONG": {
-    "symbol": "WLFI-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.059936249999999996,
-    "created_time": "2026-07-23T06:43:37.555120+00:00",
-    "score": 70
+  "ZAMA-USDT-SWAP_SHORT": {
+    "symbol": "ZAMA-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.05423962499999999,
+    "created_time": "2026-07-23T12:14:03.594314+00:00",
+    "score": 80
   }
 }
