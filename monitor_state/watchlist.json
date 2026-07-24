@@ -1,23 +1,9 @@
 {
-  "APR-USDT-SWAP_LONG": {
-    "symbol": "APR-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.20619000000000004,
-    "created_time": "2026-07-24T15:15:12.064329+00:00",
-    "score": 60
-  },
-  "PUMP-USDT-SWAP_SHORT": {
-    "symbol": "PUMP-USDT-SWAP",
+  "ZAMA-USDT-SWAP_SHORT": {
+    "symbol": "ZAMA-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.00184095,
-    "created_time": "2026-07-24T15:15:12.064329+00:00",
-    "score": 45
-  },
-  "XPL-USDT-SWAP_LONG": {
-    "symbol": "XPL-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.08459625,
-    "created_time": "2026-07-24T15:15:12.064329+00:00",
-    "score": 65
+    "target_level": 0.053557499999999994,
+    "created_time": "2026-07-24T20:03:45.066958+00:00",
+    "score": 53
   }
 }
