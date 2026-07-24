@@ -1,9 +1,9 @@
 {
-  "PENGU-USDT-SWAP_SHORT": {
-    "symbol": "PENGU-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.006125625,
-    "created_time": "2026-07-23T20:42:47.279026+00:00",
-    "score": 38
+  "BILL-USDT-SWAP_LONG": {
+    "symbol": "BILL-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.03081425,
+    "created_time": "2026-07-24T09:12:12.631543+00:00",
+    "score": 70
   }
 }
