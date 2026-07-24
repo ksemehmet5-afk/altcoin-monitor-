@@ -1,18 +1,4 @@
 {
-  "AVAX-USDT-SWAP_SHORT": {
-    "symbol": "AVAX-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 6.423375,
-    "created_time": "2026-07-23T17:05:12.849081+00:00",
-    "score": 37
-  },
-  "XPL-USDT-SWAP_LONG": {
-    "symbol": "XPL-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.08185387499999999,
-    "created_time": "2026-07-23T17:05:12.849081+00:00",
-    "score": 61
-  },
   "PENGU-USDT-SWAP_SHORT": {
     "symbol": "PENGU-USDT-SWAP",
     "direction": "SHORT",
