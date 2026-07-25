@@ -1,9 +1,9 @@
 {
-  "WLD-USDT-SWAP_SHORT": {
-    "symbol": "WLD-USDT-SWAP",
+  "ZAMA-USDT-SWAP_SHORT": {
+    "symbol": "ZAMA-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.35224875,
-    "created_time": "2026-07-24T23:44:46.551941+00:00",
-    "score": 47
+    "target_level": 0.06207850000000001,
+    "created_time": "2026-07-25T07:33:19.830811+00:00",
+    "score": 75
   }
 }
