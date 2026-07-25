@@ -13,11 +13,11 @@
     "created_time": "2026-07-25T11:47:50.987212+00:00",
     "score": 45
   },
-  "PENGU-USDT-SWAP_SHORT": {
-    "symbol": "PENGU-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.00598925,
-    "created_time": "2026-07-25T11:47:50.987212+00:00",
-    "score": 44
+  "SHIB-USDT-SWAP_LONG": {
+    "symbol": "SHIB-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 4.719225e-06,
+    "created_time": "2026-07-25T15:46:09.768618+00:00",
+    "score": 71
   }
 }
