@@ -1,23 +1,9 @@
 {
-  "BEAT-USDT-SWAP_SHORT": {
-    "symbol": "BEAT-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 3.47824125,
-    "created_time": "2026-07-25T11:47:50.987212+00:00",
-    "score": 73
-  },
-  "BONK-USDT-SWAP_LONG": {
-    "symbol": "BONK-USDT-SWAP",
+  "PENGU-USDT-SWAP_LONG": {
+    "symbol": "PENGU-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 2.91375e-06,
-    "created_time": "2026-07-25T11:47:50.987212+00:00",
-    "score": 45
-  },
-  "SHIB-USDT-SWAP_LONG": {
-    "symbol": "SHIB-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 4.719225e-06,
-    "created_time": "2026-07-25T15:46:09.768618+00:00",
-    "score": 71
+    "target_level": 0.006199925,
+    "created_time": "2026-07-25T20:13:24.399021+00:00",
+    "score": 57
   }
 }
