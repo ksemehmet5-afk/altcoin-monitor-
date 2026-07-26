@@ -1,1 +1,16 @@
-{}
+{
+  "PEPE-USDT-SWAP_LONG": {
+    "symbol": "PEPE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 2.944725e-06,
+    "created_time": "2026-07-26T07:58:19.033320+00:00",
+    "score": 71
+  },
+  "PIEVERSE-USDT-SWAP_SHORT": {
+    "symbol": "PIEVERSE-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.9485,
+    "created_time": "2026-07-26T07:58:19.033320+00:00",
+    "score": 72
+  }
+}
