@@ -1,11 +1,4 @@
 {
-  "ONDO-USDT-SWAP_SHORT": {
-    "symbol": "ONDO-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.39958,
-    "created_time": "2026-07-29T20:15:59.819405+00:00",
-    "score": 49
-  },
   "SHIB-USDT-SWAP_LONG": {
     "symbol": "SHIB-USDT-SWAP",
     "direction": "LONG",
