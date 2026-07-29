@@ -1,9 +1,23 @@
 {
-  "ENA-USDT-SWAP_SHORT": {
-    "symbol": "ENA-USDT-SWAP",
+  "BEAT-USDT-SWAP_LONG": {
+    "symbol": "BEAT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 3.38307625,
+    "created_time": "2026-07-29T00:07:31.995905+00:00",
+    "score": 45
+  },
+  "KAITO-USDT-SWAP_SHORT": {
+    "symbol": "KAITO-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.08367475,
-    "created_time": "2026-07-28T20:36:35.120315+00:00",
-    "score": 40
+    "target_level": 1.286545,
+    "created_time": "2026-07-29T00:07:31.995905+00:00",
+    "score": 53
+  },
+  "PUMP-USDT-SWAP_LONG": {
+    "symbol": "PUMP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.001966,
+    "created_time": "2026-07-29T00:07:31.995905+00:00",
+    "score": 54
   }
 }
