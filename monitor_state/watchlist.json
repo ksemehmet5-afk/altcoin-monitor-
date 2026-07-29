@@ -1,23 +1,16 @@
 {
-  "ENA-USDT-SWAP_SHORT": {
-    "symbol": "ENA-USDT-SWAP",
+  "ONDO-USDT-SWAP_SHORT": {
+    "symbol": "ONDO-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.08004249999999999,
-    "created_time": "2026-07-29T16:04:44.900568+00:00",
-    "score": 51
+    "target_level": 0.39958,
+    "created_time": "2026-07-29T20:15:59.819405+00:00",
+    "score": 49
   },
-  "PENGU-USDT-SWAP_SHORT": {
-    "symbol": "PENGU-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.00584535,
-    "created_time": "2026-07-29T16:04:44.900568+00:00",
-    "score": 50
-  },
-  "PEPE-USDT-SWAP_LONG": {
-    "symbol": "PEPE-USDT-SWAP",
+  "SHIB-USDT-SWAP_LONG": {
+    "symbol": "SHIB-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 2.6711875e-06,
-    "created_time": "2026-07-29T16:04:44.900568+00:00",
-    "score": 52
+    "target_level": 4.610025e-06,
+    "created_time": "2026-07-29T20:15:59.819405+00:00",
+    "score": 71
   }
 }
