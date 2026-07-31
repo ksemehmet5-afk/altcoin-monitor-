@@ -1,16 +1,9 @@
 {
-  "BONK-USDT-SWAP_LONG": {
-    "symbol": "BONK-USDT-SWAP",
+  "CAP-USDT-SWAP_LONG": {
+    "symbol": "CAP-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 2.7719124999999997e-06,
-    "created_time": "2026-07-31T08:18:53.116903+00:00",
-    "score": 47
-  },
-  "GIGGLE-USDT-SWAP_SHORT": {
-    "symbol": "GIGGLE-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 42.34275,
-    "created_time": "2026-07-31T08:18:53.116903+00:00",
-    "score": 77
+    "target_level": 0.03754475,
+    "created_time": "2026-07-31T15:52:18.899907+00:00",
+    "score": 46
   }
 }
