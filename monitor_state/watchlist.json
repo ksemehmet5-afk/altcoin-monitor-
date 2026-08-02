@@ -1,1 +1,9 @@
-{}
+{
+  "KAITO-USDT-SWAP_SHORT": {
+    "symbol": "KAITO-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 1.005615,
+    "created_time": "2026-08-02T23:43:11.959550+00:00",
+    "score": 50
+  }
+}
