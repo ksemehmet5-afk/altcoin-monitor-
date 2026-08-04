@@ -1,1 +1,9 @@
-{}
+{
+  "LDO-USDT-SWAP_SHORT": {
+    "symbol": "LDO-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.301465,
+    "created_time": "2026-08-04T12:23:33.215665+00:00",
+    "score": 48
+  }
+}
