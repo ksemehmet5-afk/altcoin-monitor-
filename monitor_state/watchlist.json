@@ -13,32 +13,11 @@
     "created_time": "2026-08-05T18:59:15.475744+00:00",
     "score": 51
   },
-  "CRCL-USDT-SWAP_LONG": {
-    "symbol": "CRCL-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 63.12625,
-    "created_time": "2026-08-05T18:59:15.475744+00:00",
-    "score": 61
-  },
-  "GRVT-USDT-SWAP_LONG": {
-    "symbol": "GRVT-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.333408,
-    "created_time": "2026-08-05T18:59:15.475744+00:00",
-    "score": 60
-  },
   "LAB-USDT-SWAP_LONG": {
     "symbol": "LAB-USDT-SWAP",
     "direction": "LONG",
     "target_level": 0.12521499999999997,
     "created_time": "2026-08-05T18:59:15.475744+00:00",
     "score": 80
-  },
-  "SAMSUNG-USDT-SWAP_LONG": {
-    "symbol": "SAMSUNG-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 174.6275,
-    "created_time": "2026-08-05T18:59:15.475744+00:00",
-    "score": 72
   }
 }
