@@ -5,5 +5,12 @@
     "target_level": 0.010486450000000001,
     "created_time": "2026-08-05T01:04:21.130134+00:00",
     "score": 96
+  },
+  "BIO-USDT-SWAP_SHORT": {
+    "symbol": "BIO-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.02549475,
+    "created_time": "2026-08-05T04:26:58.726779+00:00",
+    "score": 47
   }
 }
