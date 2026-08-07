@@ -33,5 +33,26 @@
     "target_level": 0.34562499999999996,
     "created_time": "2026-08-07T07:50:10.904462+00:00",
     "score": 53
+  },
+  "PENGU-USDT-SWAP_LONG": {
+    "symbol": "PENGU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.005990425,
+    "created_time": "2026-08-07T08:47:17.380302+00:00",
+    "score": 40
+  },
+  "PUMP-USDT-SWAP_LONG": {
+    "symbol": "PUMP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0022515,
+    "created_time": "2026-08-07T08:47:17.380302+00:00",
+    "score": 59
+  },
+  "RE-USDT-SWAP_SHORT": {
+    "symbol": "RE-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.3819535,
+    "created_time": "2026-08-07T08:47:17.380302+00:00",
+    "score": 40
   }
 }
