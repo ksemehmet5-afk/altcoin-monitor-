@@ -5,5 +5,19 @@
     "target_level": 0.036199625,
     "created_time": "2026-08-07T14:45:23.621741+00:00",
     "score": 48
+  },
+  "GIGGLE-USDT-SWAP_LONG": {
+    "symbol": "GIGGLE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 33.157250000000005,
+    "created_time": "2026-08-07T15:44:59.390802+00:00",
+    "score": 47
+  },
+  "ZAMA-USDT-SWAP_SHORT": {
+    "symbol": "ZAMA-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.05097925,
+    "created_time": "2026-08-07T15:44:59.390802+00:00",
+    "score": 40
   }
 }
