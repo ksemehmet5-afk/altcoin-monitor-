@@ -1,9 +1,9 @@
 {
-  "BONK-USDT-SWAP_SHORT": {
-    "symbol": "BONK-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 2.55725e-06,
-    "created_time": "2026-08-07T09:52:13.386122+00:00",
-    "score": 59
+  "CAP-USDT-SWAP_LONG": {
+    "symbol": "CAP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.036199625,
+    "created_time": "2026-08-07T14:45:23.621741+00:00",
+    "score": 48
   }
 }
