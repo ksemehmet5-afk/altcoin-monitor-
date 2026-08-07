@@ -1,16 +1,23 @@
 {
-  "ZBT-USDT-SWAP_SHORT": {
-    "symbol": "ZBT-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.19018800000000002,
-    "created_time": "2026-08-07T00:13:51.162752+00:00",
-    "score": 54
-  },
   "INJ-USDT-SWAP_SHORT": {
     "symbol": "INJ-USDT-SWAP",
     "direction": "SHORT",
     "target_level": 4.514375,
     "created_time": "2026-08-07T03:15:02.971406+00:00",
     "score": 27
+  },
+  "BEAT-USDT-SWAP_LONG": {
+    "symbol": "BEAT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1.9066650000000003,
+    "created_time": "2026-08-07T05:02:47.271791+00:00",
+    "score": 53
+  },
+  "OKB-USDT-SWAP_SHORT": {
+    "symbol": "OKB-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 88.77825,
+    "created_time": "2026-08-07T05:02:47.271791+00:00",
+    "score": 34
   }
 }
