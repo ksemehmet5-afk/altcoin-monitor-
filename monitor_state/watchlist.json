@@ -12,5 +12,12 @@
     "target_level": 2.2127000000000003,
     "created_time": "2026-08-08T17:43:53.420961+00:00",
     "score": 55
+  },
+  "GIGGLE-USDT-SWAP_LONG": {
+    "symbol": "GIGGLE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 35.85125,
+    "created_time": "2026-08-08T20:18:24.866676+00:00",
+    "score": 56
   }
 }
