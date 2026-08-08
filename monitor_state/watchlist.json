@@ -1,11 +1,4 @@
 {
-  "KAITO-USDT-SWAP_SHORT": {
-    "symbol": "KAITO-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.7182675000000001,
-    "created_time": "2026-08-08T10:58:05.586845+00:00",
-    "score": 49
-  },
   "ARB-USDT-SWAP_LONG": {
     "symbol": "ARB-USDT-SWAP",
     "direction": "LONG",
@@ -40,5 +33,19 @@
     "target_level": 2.77131375,
     "created_time": "2026-08-08T14:47:38.478812+00:00",
     "score": 72
+  },
+  "CAP-USDT-SWAP_LONG": {
+    "symbol": "CAP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.038463125,
+    "created_time": "2026-08-08T15:20:30.508384+00:00",
+    "score": 54
+  },
+  "PENGU-USDT-SWAP_LONG": {
+    "symbol": "PENGU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.006234099999999999,
+    "created_time": "2026-08-08T15:20:30.508384+00:00",
+    "score": 43
   }
 }
