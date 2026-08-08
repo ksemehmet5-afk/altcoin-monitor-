@@ -26,5 +26,12 @@
     "target_level": 0.15019875000000002,
     "created_time": "2026-08-08T09:52:03.404921+00:00",
     "score": 61
+  },
+  "ZAMA-USDT-SWAP_SHORT": {
+    "symbol": "ZAMA-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.049167,
+    "created_time": "2026-08-08T10:21:57.725793+00:00",
+    "score": 31
   }
 }
