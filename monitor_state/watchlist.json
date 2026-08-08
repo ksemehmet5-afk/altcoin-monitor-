@@ -1,11 +1,4 @@
 {
-  "PENGU-USDT-SWAP_LONG": {
-    "symbol": "PENGU-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.006234099999999999,
-    "created_time": "2026-08-08T15:20:30.508384+00:00",
-    "score": 43
-  },
   "RIVER-USDT-SWAP_LONG": {
     "symbol": "RIVER-USDT-SWAP",
     "direction": "LONG",
