@@ -13,18 +13,11 @@
     "created_time": "2026-08-08T00:58:04.805918+00:00",
     "score": 52
   },
-  "RAVE-USDT-SWAP_LONG": {
-    "symbol": "RAVE-USDT-SWAP",
+  "OKB-USDT-SWAP_LONG": {
+    "symbol": "OKB-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.3305375,
-    "created_time": "2026-08-08T00:58:04.805918+00:00",
-    "score": 57
-  },
-  "TRX-USDT-SWAP_SHORT": {
-    "symbol": "TRX-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.32765125,
-    "created_time": "2026-08-08T00:58:04.805918+00:00",
-    "score": 31
+    "target_level": 92.37375,
+    "created_time": "2026-08-08T02:53:41.291767+00:00",
+    "score": 65
   }
 }
