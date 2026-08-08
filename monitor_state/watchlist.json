@@ -1,11 +1,4 @@
 {
-  "RAVE-USDT-SWAP_LONG": {
-    "symbol": "RAVE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.334565,
-    "created_time": "2026-08-08T12:28:35.950086+00:00",
-    "score": 62
-  },
   "ALLO-USDT-SWAP_LONG": {
     "symbol": "ALLO-USDT-SWAP",
     "direction": "LONG",
@@ -33,5 +26,12 @@
     "target_level": 2.8410374999999997,
     "created_time": "2026-08-08T16:21:59.003665+00:00",
     "score": 47
+  },
+  "AEON-USDT-SWAP_SHORT": {
+    "symbol": "AEON-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.0584965,
+    "created_time": "2026-08-08T17:00:16.350229+00:00",
+    "score": 50
   }
 }
