@@ -1,11 +1,4 @@
 {
-  "MUBARAK-USDT-SWAP_LONG": {
-    "symbol": "MUBARAK-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.0207375,
-    "created_time": "2026-08-09T15:04:42.635133+00:00",
-    "score": 60
-  },
   "CC-USDT-SWAP_SHORT": {
     "symbol": "CC-USDT-SWAP",
     "direction": "SHORT",
