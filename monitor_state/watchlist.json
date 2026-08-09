@@ -13,18 +13,25 @@
     "created_time": "2026-08-09T05:32:32.945160+00:00",
     "score": 70
   },
-  "RE-USDT-SWAP_SHORT": {
-    "symbol": "RE-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.418152375,
-    "created_time": "2026-08-09T05:32:32.945160+00:00",
-    "score": 63
-  },
   "ZAMA-USDT-SWAP_SHORT": {
     "symbol": "ZAMA-USDT-SWAP",
     "direction": "SHORT",
     "target_level": 0.048237999999999996,
     "created_time": "2026-08-09T05:32:32.945160+00:00",
     "score": 31
+  },
+  "BEAT-USDT-SWAP_SHORT": {
+    "symbol": "BEAT-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 3.04651125,
+    "created_time": "2026-08-09T06:26:50.157164+00:00",
+    "score": 71
+  },
+  "SNXX-USDT-SWAP_LONG": {
+    "symbol": "SNXX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 9.19525,
+    "created_time": "2026-08-09T06:26:50.157164+00:00",
+    "score": 38
   }
 }
