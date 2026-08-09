@@ -33,5 +33,12 @@
     "target_level": 0.009023775000000001,
     "created_time": "2026-08-09T17:22:39.327929+00:00",
     "score": 67
+  },
+  "RE-USDT-SWAP_SHORT": {
+    "symbol": "RE-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.4102915,
+    "created_time": "2026-08-09T18:27:17.614305+00:00",
+    "score": 47
   }
 }
