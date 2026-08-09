@@ -6,13 +6,6 @@
     "created_time": "2026-08-08T22:54:33.177460+00:00",
     "score": 46
   },
-  "BEAT-USDT-SWAP_SHORT": {
-    "symbol": "BEAT-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 2.8797524999999995,
-    "created_time": "2026-08-08T23:19:05.266341+00:00",
-    "score": 54
-  },
   "AEON-USDT-SWAP_SHORT": {
     "symbol": "AEON-USDT-SWAP",
     "direction": "SHORT",
