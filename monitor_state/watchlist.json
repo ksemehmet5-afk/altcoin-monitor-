@@ -1,11 +1,4 @@
 {
-  "ZAMA-USDT-SWAP_SHORT": {
-    "symbol": "ZAMA-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.048237999999999996,
-    "created_time": "2026-08-09T05:32:32.945160+00:00",
-    "score": 31
-  },
   "PEOPLE-USDT-SWAP_LONG": {
     "symbol": "PEOPLE-USDT-SWAP",
     "direction": "LONG",
