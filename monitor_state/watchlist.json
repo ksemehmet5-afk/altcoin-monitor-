@@ -5,5 +5,26 @@
     "target_level": 0.285130125,
     "created_time": "2026-08-09T04:33:58.646823+00:00",
     "score": 65
+  },
+  "RAVE-USDT-SWAP_LONG": {
+    "symbol": "RAVE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.36231375,
+    "created_time": "2026-08-09T05:32:32.945160+00:00",
+    "score": 70
+  },
+  "RE-USDT-SWAP_SHORT": {
+    "symbol": "RE-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.418152375,
+    "created_time": "2026-08-09T05:32:32.945160+00:00",
+    "score": 63
+  },
+  "ZAMA-USDT-SWAP_SHORT": {
+    "symbol": "ZAMA-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.048237999999999996,
+    "created_time": "2026-08-09T05:32:32.945160+00:00",
+    "score": 31
   }
 }
