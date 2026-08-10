@@ -1,9 +1,9 @@
 {
-  "CRV-USDT-SWAP_LONG": {
-    "symbol": "CRV-USDT-SWAP",
+  "MRVL-USDT-SWAP_LONG": {
+    "symbol": "MRVL-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.2474675,
-    "created_time": "2026-08-10T18:01:18.203455+00:00",
-    "score": 50
+    "target_level": 206.99975,
+    "created_time": "2026-08-10T22:19:29.344967+00:00",
+    "score": 70
   }
 }
