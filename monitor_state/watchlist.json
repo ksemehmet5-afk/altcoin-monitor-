@@ -6,13 +6,6 @@
     "created_time": "2026-08-09T20:59:59.367591+00:00",
     "score": 77
   },
-  "BOME-USDT-SWAP_LONG": {
-    "symbol": "BOME-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.00084717625,
-    "created_time": "2026-08-09T21:36:37.194827+00:00",
-    "score": 66
-  },
   "GRVT-USDT-SWAP_LONG": {
     "symbol": "GRVT-USDT-SWAP",
     "direction": "LONG",
