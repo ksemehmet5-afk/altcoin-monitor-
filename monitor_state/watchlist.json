@@ -13,20 +13,6 @@
     "created_time": "2026-08-10T01:13:47.926196+00:00",
     "score": 56
   },
-  "HOME-USDT-SWAP_SHORT": {
-    "symbol": "HOME-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.00914065,
-    "created_time": "2026-08-10T01:13:47.926196+00:00",
-    "score": 43
-  },
-  "SKHYNIX-USDT-SWAP_LONG": {
-    "symbol": "SKHYNIX-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 1025.9547499999999,
-    "created_time": "2026-08-10T01:13:47.926196+00:00",
-    "score": 78
-  },
   "ZAMA-USDT-SWAP_SHORT": {
     "symbol": "ZAMA-USDT-SWAP",
     "direction": "SHORT",
