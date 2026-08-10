@@ -5,5 +5,12 @@
     "target_level": 206.99975,
     "created_time": "2026-08-10T22:19:29.344967+00:00",
     "score": 70
+  },
+  "CRV-USDT-SWAP_SHORT": {
+    "symbol": "CRV-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.26638875,
+    "created_time": "2026-08-10T23:48:58.670706+00:00",
+    "score": 50
   }
 }
