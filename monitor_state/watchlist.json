@@ -1,11 +1,4 @@
 {
-  "DOS-USDT-SWAP_SHORT": {
-    "symbol": "DOS-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.3452625,
-    "created_time": "2026-08-12T17:39:26.281880+00:00",
-    "score": 66
-  },
   "SPCX-USDT-SWAP_SHORT": {
     "symbol": "SPCX-USDT-SWAP",
     "direction": "SHORT",
@@ -26,5 +19,12 @@
     "target_level": 256.233375,
     "created_time": "2026-08-12T21:25:59.667151+00:00",
     "score": 71
+  },
+  "FIL-USDT-SWAP_SHORT": {
+    "symbol": "FIL-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.6773625000000001,
+    "created_time": "2026-08-12T22:08:53.584594+00:00",
+    "score": 59
   }
 }
