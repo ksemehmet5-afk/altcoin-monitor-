@@ -1,11 +1,4 @@
 {
-  "CAP-USDT-SWAP_SHORT": {
-    "symbol": "CAP-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.058307750000000005,
-    "created_time": "2026-08-12T16:33:14.170227+00:00",
-    "score": 59
-  },
   "DOS-USDT-SWAP_SHORT": {
     "symbol": "DOS-USDT-SWAP",
     "direction": "SHORT",
