@@ -6,11 +6,11 @@
     "created_time": "2026-08-12T06:42:40.339797+00:00",
     "score": 49
   },
-  "H-USDT-SWAP_LONG": {
-    "symbol": "H-USDT-SWAP",
+  "AAOI-USDT-SWAP_LONG": {
+    "symbol": "AAOI-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.092400375,
-    "created_time": "2026-08-12T09:30:14.172054+00:00",
-    "score": 47
+    "target_level": 137.78587500000003,
+    "created_time": "2026-08-12T10:36:14.736688+00:00",
+    "score": 52
   }
 }
