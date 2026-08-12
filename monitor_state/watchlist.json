@@ -26,5 +26,12 @@
     "target_level": 0.6773625000000001,
     "created_time": "2026-08-12T22:08:53.584594+00:00",
     "score": 59
+  },
+  "APR-USDT-SWAP_LONG": {
+    "symbol": "APR-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.47653749999999995,
+    "created_time": "2026-08-12T22:58:09.208552+00:00",
+    "score": 50
   }
 }
