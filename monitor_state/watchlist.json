@@ -19,5 +19,19 @@
     "target_level": 0.41514500000000004,
     "created_time": "2026-08-13T18:35:14.133392+00:00",
     "score": 41
+  },
+  "H-USDT-SWAP_LONG": {
+    "symbol": "H-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.10588,
+    "created_time": "2026-08-13T22:00:45.161061+00:00",
+    "score": 46
+  },
+  "UB-USDT-SWAP_LONG": {
+    "symbol": "UB-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.138694375,
+    "created_time": "2026-08-13T22:00:45.161061+00:00",
+    "score": 38
   }
 }
