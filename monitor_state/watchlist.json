@@ -6,20 +6,6 @@
     "created_time": "2026-08-13T14:44:17.100689+00:00",
     "score": 74
   },
-  "SKHY-USDT-SWAP_SHORT": {
-    "symbol": "SKHY-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 166.12125,
-    "created_time": "2026-08-13T15:39:08.780956+00:00",
-    "score": 62
-  },
-  "SNDK-USDT-SWAP_SHORT": {
-    "symbol": "SNDK-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 1536.01525,
-    "created_time": "2026-08-13T15:39:08.780956+00:00",
-    "score": 71
-  },
   "UB-USDT-SWAP_SHORT": {
     "symbol": "UB-USDT-SWAP",
     "direction": "SHORT",
