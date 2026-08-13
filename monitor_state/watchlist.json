@@ -1,9 +1,9 @@
 {
-  "MMT-USDT-SWAP_SHORT": {
-    "symbol": "MMT-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.1734775,
-    "created_time": "2026-08-13T10:42:27.874805+00:00",
-    "score": 59
+  "SAMSUNG-USDT-SWAP_LONG": {
+    "symbol": "SAMSUNG-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 189.917,
+    "created_time": "2026-08-13T14:44:17.100689+00:00",
+    "score": 74
   }
 }
