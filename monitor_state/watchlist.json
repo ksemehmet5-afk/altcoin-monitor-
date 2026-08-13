@@ -12,5 +12,12 @@
     "target_level": 0.130764375,
     "created_time": "2026-08-13T15:39:08.780956+00:00",
     "score": 38
+  },
+  "HOME-USDT-SWAP_SHORT": {
+    "symbol": "HOME-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.010750599999999999,
+    "created_time": "2026-08-13T17:39:32.347297+00:00",
+    "score": 98
   }
 }
