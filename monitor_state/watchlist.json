@@ -12,5 +12,26 @@
     "target_level": 0.077668875,
     "created_time": "2026-08-13T22:59:07.900608+00:00",
     "score": 76
+  },
+  "BOME-USDT-SWAP_LONG": {
+    "symbol": "BOME-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.00074487125,
+    "created_time": "2026-08-14T00:42:49.579887+00:00",
+    "score": 42
+  },
+  "MMT-USDT-SWAP_SHORT": {
+    "symbol": "MMT-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.17417,
+    "created_time": "2026-08-14T00:42:49.579887+00:00",
+    "score": 68
+  },
+  "SNXX-USDT-SWAP_SHORT": {
+    "symbol": "SNXX-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 14.64075,
+    "created_time": "2026-08-14T00:42:49.579887+00:00",
+    "score": 56
   }
 }
