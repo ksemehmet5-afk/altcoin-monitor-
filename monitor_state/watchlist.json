@@ -13,32 +13,11 @@
     "created_time": "2026-08-14T17:24:00.016848+00:00",
     "score": 60
   },
-  "PIEVERSE-USDT-SWAP_LONG": {
-    "symbol": "PIEVERSE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.803775,
-    "created_time": "2026-08-14T17:24:00.016848+00:00",
-    "score": 37
-  },
   "GRVT-USDT-SWAP_LONG": {
     "symbol": "GRVT-USDT-SWAP",
     "direction": "LONG",
     "target_level": 0.29584512500000004,
     "created_time": "2026-08-14T18:12:41.322823+00:00",
     "score": 44
-  },
-  "ETHFI-USDT-SWAP_LONG": {
-    "symbol": "ETHFI-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.45178125,
-    "created_time": "2026-08-14T19:55:33.396107+00:00",
-    "score": 42
-  },
-  "WLFI-USDT-SWAP_LONG": {
-    "symbol": "WLFI-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.05792775,
-    "created_time": "2026-08-14T20:23:23.204164+00:00",
-    "score": 64
   }
 }
