@@ -1,9 +1,23 @@
 {
-  "KORU-USDT-SWAP_SHORT": {
-    "symbol": "KORU-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 22.70025,
-    "created_time": "2026-08-14T12:05:06.223456+00:00",
-    "score": 52
+  "APR-USDT-SWAP_LONG": {
+    "symbol": "APR-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.5371012500000001,
+    "created_time": "2026-08-14T16:23:14.524556+00:00",
+    "score": 60
+  },
+  "BOME-USDT-SWAP_LONG": {
+    "symbol": "BOME-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.000771435,
+    "created_time": "2026-08-14T16:23:14.524556+00:00",
+    "score": 38
+  },
+  "SHIB-USDT-SWAP_LONG": {
+    "symbol": "SHIB-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 4.536575e-06,
+    "created_time": "2026-08-14T16:23:14.524556+00:00",
+    "score": 48
   }
 }
