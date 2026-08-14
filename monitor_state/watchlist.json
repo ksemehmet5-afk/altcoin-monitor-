@@ -1,11 +1,4 @@
 {
-  "CAP-USDT-SWAP_SHORT": {
-    "symbol": "CAP-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.058826250000000004,
-    "created_time": "2026-08-14T03:12:08.694495+00:00",
-    "score": 60
-  },
   "XAU-USDT-SWAP_LONG": {
     "symbol": "XAU-USDT-SWAP",
     "direction": "LONG",
@@ -19,5 +12,12 @@
     "target_level": 0.46333775,
     "created_time": "2026-08-14T05:00:50.471251+00:00",
     "score": 43
+  },
+  "GRVT-USDT-SWAP_LONG": {
+    "symbol": "GRVT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.33781574999999997,
+    "created_time": "2026-08-14T06:40:13.680040+00:00",
+    "score": 41
   }
 }
