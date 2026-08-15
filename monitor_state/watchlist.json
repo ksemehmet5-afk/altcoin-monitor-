@@ -13,13 +13,6 @@
     "created_time": "2026-08-15T08:00:29.531135+00:00",
     "score": 76
   },
-  "APR-USDT-SWAP_LONG": {
-    "symbol": "APR-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.1917725,
-    "created_time": "2026-08-15T08:43:32.778321+00:00",
-    "score": 79
-  },
   "ETHFI-USDT-SWAP_SHORT": {
     "symbol": "ETHFI-USDT-SWAP",
     "direction": "SHORT",
