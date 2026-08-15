@@ -1,16 +1,16 @@
 {
-  "ETHFI-USDT-SWAP_SHORT": {
-    "symbol": "ETHFI-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.4923975,
-    "created_time": "2026-08-15T08:43:32.778321+00:00",
-    "score": 58
-  },
   "AEON-USDT-SWAP_SHORT": {
     "symbol": "AEON-USDT-SWAP",
     "direction": "SHORT",
     "target_level": 0.079673625,
     "created_time": "2026-08-15T11:32:46.878747+00:00",
     "score": 46
+  },
+  "PUMP-USDT-SWAP_LONG": {
+    "symbol": "PUMP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.002783625,
+    "created_time": "2026-08-15T13:05:47.175071+00:00",
+    "score": 64
   }
 }
