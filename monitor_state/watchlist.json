@@ -1,11 +1,4 @@
 {
-  "BICO-USDT-SWAP_SHORT": {
-    "symbol": "BICO-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.022649625,
-    "created_time": "2026-08-15T14:45:08.781664+00:00",
-    "score": 73
-  },
   "ICP-USDT-SWAP_LONG": {
     "symbol": "ICP-USDT-SWAP",
     "direction": "LONG",
@@ -33,5 +26,12 @@
     "target_level": 0.1450835,
     "created_time": "2026-08-15T18:15:41.524775+00:00",
     "score": 63
+  },
+  "CAP-USDT-SWAP_SHORT": {
+    "symbol": "CAP-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.06730075,
+    "created_time": "2026-08-15T18:53:41.982080+00:00",
+    "score": 74
   }
 }
