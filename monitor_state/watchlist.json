@@ -12,12 +12,5 @@
     "target_level": 0.002783625,
     "created_time": "2026-08-15T13:05:47.175071+00:00",
     "score": 64
-  },
-  "BOME-USDT-SWAP_LONG": {
-    "symbol": "BOME-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.0008236737500000001,
-    "created_time": "2026-08-15T13:41:12.554930+00:00",
-    "score": 54
   }
 }
