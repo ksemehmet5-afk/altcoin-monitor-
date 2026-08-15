@@ -1,11 +1,4 @@
 {
-  "ICP-USDT-SWAP_LONG": {
-    "symbol": "ICP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 2.2307624999999995,
-    "created_time": "2026-08-15T15:24:50.685429+00:00",
-    "score": 43
-  },
   "HOME-USDT-SWAP_SHORT": {
     "symbol": "HOME-USDT-SWAP",
     "direction": "SHORT",
