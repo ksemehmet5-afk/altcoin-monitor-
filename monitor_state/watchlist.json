@@ -13,18 +13,11 @@
     "created_time": "2026-08-14T23:20:26.225860+00:00",
     "score": 53
   },
-  "AEON-USDT-SWAP_LONG": {
-    "symbol": "AEON-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.06574674999999999,
-    "created_time": "2026-08-14T23:44:17.524100+00:00",
-    "score": 70
-  },
-  "RE-USDT-SWAP_SHORT": {
-    "symbol": "RE-USDT-SWAP",
+  "DOS-USDT-SWAP_SHORT": {
+    "symbol": "DOS-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.44868125,
-    "created_time": "2026-08-14T23:44:17.524100+00:00",
-    "score": 36
+    "target_level": 0.28481625,
+    "created_time": "2026-08-15T00:00:13.941719+00:00",
+    "score": 49
   }
 }
