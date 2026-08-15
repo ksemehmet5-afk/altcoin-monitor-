@@ -1,18 +1,4 @@
 {
-  "BOME-USDT-SWAP_LONG": {
-    "symbol": "BOME-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.0008590225,
-    "created_time": "2026-08-15T18:15:41.524775+00:00",
-    "score": 70
-  },
-  "H-USDT-SWAP_LONG": {
-    "symbol": "H-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.1450835,
-    "created_time": "2026-08-15T18:15:41.524775+00:00",
-    "score": 63
-  },
   "CAP-USDT-SWAP_SHORT": {
     "symbol": "CAP-USDT-SWAP",
     "direction": "SHORT",
