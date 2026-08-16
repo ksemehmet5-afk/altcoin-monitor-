@@ -1,18 +1,4 @@
 {
-  "JTO-USDT-SWAP_LONG": {
-    "symbol": "JTO-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.5809,
-    "created_time": "2026-08-16T05:50:40.619468+00:00",
-    "score": 27
-  },
-  "BEAT-USDT-SWAP_LONG": {
-    "symbol": "BEAT-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.41109624999999994,
-    "created_time": "2026-08-16T06:23:34.950716+00:00",
-    "score": 70
-  },
   "AEON-USDT-SWAP_SHORT": {
     "symbol": "AEON-USDT-SWAP",
     "direction": "SHORT",
