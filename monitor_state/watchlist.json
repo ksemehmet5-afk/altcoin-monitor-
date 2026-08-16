@@ -19,5 +19,12 @@
     "target_level": 0.029942250000000004,
     "created_time": "2026-08-16T09:38:44.243033+00:00",
     "score": 60
+  },
+  "DOS-USDT-SWAP_SHORT": {
+    "symbol": "DOS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.2557525,
+    "created_time": "2026-08-16T10:18:47.496162+00:00",
+    "score": 42
   }
 }
