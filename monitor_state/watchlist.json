@@ -1,16 +1,16 @@
 {
-  "APR-USDT-SWAP_LONG": {
-    "symbol": "APR-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.15632125,
-    "created_time": "2026-08-15T23:34:52.419307+00:00",
-    "score": 53
-  },
   "BEAT-USDT-SWAP_LONG": {
     "symbol": "BEAT-USDT-SWAP",
     "direction": "LONG",
     "target_level": 0.35910875,
     "created_time": "2026-08-15T23:55:30.394235+00:00",
     "score": 58
+  },
+  "CHIP-USDT-SWAP_SHORT": {
+    "symbol": "CHIP-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.02930175,
+    "created_time": "2026-08-16T00:49:55.499725+00:00",
+    "score": 53
   }
 }
