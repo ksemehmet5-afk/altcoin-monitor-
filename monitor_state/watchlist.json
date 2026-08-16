@@ -27,11 +27,11 @@
     "created_time": "2026-08-16T14:45:46.137792+00:00",
     "score": 30
   },
-  "CHIP-USDT-SWAP_SHORT": {
-    "symbol": "CHIP-USDT-SWAP",
+  "GIGGLE-USDT-SWAP_SHORT": {
+    "symbol": "GIGGLE-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.030030750000000002,
-    "created_time": "2026-08-16T15:12:41.801318+00:00",
-    "score": 64
+    "target_level": 33.311249999999994,
+    "created_time": "2026-08-16T15:35:02.045717+00:00",
+    "score": 56
   }
 }
