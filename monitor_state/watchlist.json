@@ -1,11 +1,4 @@
 {
-  "WLFI-USDT-SWAP_LONG": {
-    "symbol": "WLFI-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.060269,
-    "created_time": "2026-08-16T12:20:20.546756+00:00",
-    "score": 46
-  },
   "ROBO-USDT-SWAP_SHORT": {
     "symbol": "ROBO-USDT-SWAP",
     "direction": "SHORT",
