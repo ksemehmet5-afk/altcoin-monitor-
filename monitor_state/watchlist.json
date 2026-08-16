@@ -26,5 +26,12 @@
     "target_level": 0.17806249999999998,
     "created_time": "2026-08-16T07:07:12.034492+00:00",
     "score": 56
+  },
+  "CHIP-USDT-SWAP_SHORT": {
+    "symbol": "CHIP-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.029942250000000004,
+    "created_time": "2026-08-16T09:38:44.243033+00:00",
+    "score": 60
   }
 }
