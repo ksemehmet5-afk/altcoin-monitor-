@@ -1,18 +1,4 @@
 {
-  "CHIP-USDT-SWAP_SHORT": {
-    "symbol": "CHIP-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.02930175,
-    "created_time": "2026-08-16T00:49:55.499725+00:00",
-    "score": 53
-  },
-  "GRVT-USDT-SWAP_LONG": {
-    "symbol": "GRVT-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.293712125,
-    "created_time": "2026-08-16T02:16:45.170458+00:00",
-    "score": 45
-  },
   "PIEVERSE-USDT-SWAP_LONG": {
     "symbol": "PIEVERSE-USDT-SWAP",
     "direction": "LONG",
@@ -27,20 +13,6 @@
     "created_time": "2026-08-16T03:24:58.754203+00:00",
     "score": 70
   },
-  "CAP-USDT-SWAP_SHORT": {
-    "symbol": "CAP-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.0665125,
-    "created_time": "2026-08-16T03:24:58.754203+00:00",
-    "score": 86
-  },
-  "CHIP-USDT-SWAP_LONG": {
-    "symbol": "CHIP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.0282675,
-    "created_time": "2026-08-16T04:48:20.781863+00:00",
-    "score": 62
-  },
   "KAITO-USDT-SWAP_SHORT": {
     "symbol": "KAITO-USDT-SWAP",
     "direction": "SHORT",
@@ -52,13 +24,6 @@
     "symbol": "SNXX-USDT-SWAP",
     "direction": "LONG",
     "target_level": 16.57,
-    "created_time": "2026-08-16T04:48:20.781863+00:00",
-    "score": 38
-  },
-  "XPL-USDT-SWAP_LONG": {
-    "symbol": "XPL-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.0778615,
     "created_time": "2026-08-16T04:48:20.781863+00:00",
     "score": 38
   }
