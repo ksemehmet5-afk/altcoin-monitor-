@@ -19,5 +19,19 @@
     "target_level": 0.1284575,
     "created_time": "2026-08-17T09:22:32.625396+00:00",
     "score": 46
+  },
+  "GPS-USDT-SWAP_SHORT": {
+    "symbol": "GPS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.016595850000000002,
+    "created_time": "2026-08-17T10:03:04.213950+00:00",
+    "score": 85
+  },
+  "O-USDT-SWAP_LONG": {
+    "symbol": "O-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.5093,
+    "created_time": "2026-08-17T10:03:04.213950+00:00",
+    "score": 35
   }
 }
