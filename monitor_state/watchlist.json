@@ -1,11 +1,4 @@
 {
-  "GIGGLE-USDT-SWAP_LONG": {
-    "symbol": "GIGGLE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 34.6415,
-    "created_time": "2026-08-17T17:18:27.973349+00:00",
-    "score": 51
-  },
   "ALLO-USDT-SWAP_LONG": {
     "symbol": "ALLO-USDT-SWAP",
     "direction": "LONG",
