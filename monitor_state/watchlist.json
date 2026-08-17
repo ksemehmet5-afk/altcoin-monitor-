@@ -13,13 +13,6 @@
     "created_time": "2026-08-17T07:53:50.367935+00:00",
     "score": 42
   },
-  "BSB-USDT-SWAP_LONG": {
-    "symbol": "BSB-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.1284575,
-    "created_time": "2026-08-17T09:22:32.625396+00:00",
-    "score": 46
-  },
   "GPS-USDT-SWAP_SHORT": {
     "symbol": "GPS-USDT-SWAP",
     "direction": "SHORT",
@@ -27,11 +20,18 @@
     "created_time": "2026-08-17T10:03:04.213950+00:00",
     "score": 85
   },
-  "O-USDT-SWAP_LONG": {
-    "symbol": "O-USDT-SWAP",
+  "BEAT-USDT-SWAP_LONG": {
+    "symbol": "BEAT-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.5093,
-    "created_time": "2026-08-17T10:03:04.213950+00:00",
-    "score": 35
+    "target_level": 0.2952025,
+    "created_time": "2026-08-17T10:46:32.548163+00:00",
+    "score": 60
+  },
+  "DOS-USDT-SWAP_SHORT": {
+    "symbol": "DOS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.2449975,
+    "created_time": "2026-08-17T10:46:32.548163+00:00",
+    "score": 36
   }
 }
