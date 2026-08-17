@@ -12,5 +12,54 @@
     "target_level": 0.07342062499999999,
     "created_time": "2026-08-17T00:43:22.409740+00:00",
     "score": 54
+  },
+  "AEON-USDT-SWAP_SHORT": {
+    "symbol": "AEON-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.0781935,
+    "created_time": "2026-08-17T03:11:10.677293+00:00",
+    "score": 50
+  },
+  "BSB-USDT-SWAP_LONG": {
+    "symbol": "BSB-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.1286125,
+    "created_time": "2026-08-17T03:11:10.677293+00:00",
+    "score": 44
+  },
+  "CAP-USDT-SWAP_SHORT": {
+    "symbol": "CAP-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.07197862500000002,
+    "created_time": "2026-08-17T03:11:10.677293+00:00",
+    "score": 64
+  },
+  "FIL-USDT-SWAP_LONG": {
+    "symbol": "FIL-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.66508,
+    "created_time": "2026-08-17T03:11:10.677293+00:00",
+    "score": 45
+  },
+  "GIGGLE-USDT-SWAP_LONG": {
+    "symbol": "GIGGLE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 31.740000000000002,
+    "created_time": "2026-08-17T03:11:10.677293+00:00",
+    "score": 56
+  },
+  "KAITO-USDT-SWAP_SHORT": {
+    "symbol": "KAITO-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.3440475,
+    "created_time": "2026-08-17T03:11:10.677293+00:00",
+    "score": 54
+  },
+  "ZAMA-USDT-SWAP_SHORT": {
+    "symbol": "ZAMA-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.04282875,
+    "created_time": "2026-08-17T03:11:10.677293+00:00",
+    "score": 28
   }
 }
