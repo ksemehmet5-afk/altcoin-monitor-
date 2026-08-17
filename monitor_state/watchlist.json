@@ -12,5 +12,19 @@
     "target_level": 0.1141945,
     "created_time": "2026-08-17T11:47:40.326893+00:00",
     "score": 58
+  },
+  "INTC-USDT-SWAP_LONG": {
+    "symbol": "INTC-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 103.6065,
+    "created_time": "2026-08-17T13:52:43.602608+00:00",
+    "score": 49
+  },
+  "SNDK-USDT-SWAP_SHORT": {
+    "symbol": "SNDK-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 1797.3900000000003,
+    "created_time": "2026-08-17T13:52:43.602608+00:00",
+    "score": 71
   }
 }
