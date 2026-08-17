@@ -1,11 +1,4 @@
 {
-  "AEON-USDT-SWAP_SHORT": {
-    "symbol": "AEON-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.09107175,
-    "created_time": "2026-08-17T15:46:48.854012+00:00",
-    "score": 75
-  },
   "GIGGLE-USDT-SWAP_LONG": {
     "symbol": "GIGGLE-USDT-SWAP",
     "direction": "LONG",
