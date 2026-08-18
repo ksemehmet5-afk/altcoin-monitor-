@@ -5,5 +5,12 @@
     "target_level": 0.0705025,
     "created_time": "2026-08-17T23:43:49.543514+00:00",
     "score": 70
+  },
+  "SKHYNIX-USDT-SWAP_LONG": {
+    "symbol": "SKHYNIX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1240.4575,
+    "created_time": "2026-08-17T23:58:50.083043+00:00",
+    "score": 67
   }
 }
