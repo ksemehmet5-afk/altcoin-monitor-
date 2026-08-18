@@ -19,5 +19,26 @@
     "target_level": 193.16475000000003,
     "created_time": "2026-08-18T03:25:46.854263+00:00",
     "score": 73
+  },
+  "FIL-USDT-SWAP_SHORT": {
+    "symbol": "FIL-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.62266,
+    "created_time": "2026-08-18T04:49:20.283088+00:00",
+    "score": 55
+  },
+  "GPS-USDT-SWAP_SHORT": {
+    "symbol": "GPS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.0173046375,
+    "created_time": "2026-08-18T04:49:20.283088+00:00",
+    "score": 59
+  },
+  "JTO-USDT-SWAP_LONG": {
+    "symbol": "JTO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.580565,
+    "created_time": "2026-08-18T04:49:20.283088+00:00",
+    "score": 26
   }
 }
