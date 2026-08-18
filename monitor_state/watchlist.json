@@ -12,5 +12,12 @@
     "target_level": 537.5456250000001,
     "created_time": "2026-08-18T19:55:34.342941+00:00",
     "score": 38
+  },
+  "AAOI-USDT-SWAP_LONG": {
+    "symbol": "AAOI-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 129.34274999999997,
+    "created_time": "2026-08-18T20:14:12.172688+00:00",
+    "score": 70
   }
 }
