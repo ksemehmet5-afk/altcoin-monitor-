@@ -47,5 +47,12 @@
     "target_level": 0.11850987500000001,
     "created_time": "2026-08-18T12:26:06.962778+00:00",
     "score": 46
+  },
+  "GPS-USDT-SWAP_SHORT": {
+    "symbol": "GPS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.018170325,
+    "created_time": "2026-08-18T13:22:03.964556+00:00",
+    "score": 80
   }
 }
