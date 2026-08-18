@@ -19,12 +19,5 @@
     "target_level": 0.287787125,
     "created_time": "2026-08-18T21:26:18.696222+00:00",
     "score": 38
-  },
-  "ALLO-USDT-SWAP_LONG": {
-    "symbol": "ALLO-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.29558450000000003,
-    "created_time": "2026-08-18T21:45:42.979826+00:00",
-    "score": 53
   }
 }
