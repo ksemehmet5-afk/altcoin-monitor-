@@ -1,9 +1,9 @@
 {
-  "GPS-USDT-SWAP_SHORT": {
-    "symbol": "GPS-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.0173046375,
-    "created_time": "2026-08-18T04:49:20.283088+00:00",
-    "score": 59
+  "BEAT-USDT-SWAP_LONG": {
+    "symbol": "BEAT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.25665125,
+    "created_time": "2026-08-18T09:01:24.551794+00:00",
+    "score": 58
   }
 }
