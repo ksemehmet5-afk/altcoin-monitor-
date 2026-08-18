@@ -5,12 +5,5 @@
     "target_level": 0.0173046375,
     "created_time": "2026-08-18T04:49:20.283088+00:00",
     "score": 59
-  },
-  "GRVT-USDT-SWAP_LONG": {
-    "symbol": "GRVT-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.28523937499999996,
-    "created_time": "2026-08-18T07:53:38.364252+00:00",
-    "score": 35
   }
 }
