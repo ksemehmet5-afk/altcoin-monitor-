@@ -1,11 +1,4 @@
 {
-  "AEON-USDT-SWAP_SHORT": {
-    "symbol": "AEON-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.09152025,
-    "created_time": "2026-08-18T17:19:42.315430+00:00",
-    "score": 70
-  },
   "META-USDT-SWAP_LONG": {
     "symbol": "META-USDT-SWAP",
     "direction": "LONG",
@@ -19,5 +12,12 @@
     "target_level": 129.34274999999997,
     "created_time": "2026-08-18T20:14:12.172688+00:00",
     "score": 70
+  },
+  "GRVT-USDT-SWAP_LONG": {
+    "symbol": "GRVT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.287787125,
+    "created_time": "2026-08-18T21:26:18.696222+00:00",
+    "score": 38
   }
 }
