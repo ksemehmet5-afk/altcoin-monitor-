@@ -41,13 +41,6 @@
     "created_time": "2026-08-19T14:50:42.680721+00:00",
     "score": 56
   },
-  "ZRO-USDT-SWAP_LONG": {
-    "symbol": "ZRO-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.8595125,
-    "created_time": "2026-08-19T14:50:42.680721+00:00",
-    "score": 26
-  },
   "AVAX-USDT-SWAP_LONG": {
     "symbol": "AVAX-USDT-SWAP",
     "direction": "LONG",
@@ -151,6 +144,20 @@
     "direction": "LONG",
     "target_level": 81.29074999999999,
     "created_time": "2026-08-19T16:20:22.033926+00:00",
+    "score": 51
+  },
+  "HYPE-USDT-SWAP_LONG": {
+    "symbol": "HYPE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 61.37395,
+    "created_time": "2026-08-19T16:53:50.401929+00:00",
+    "score": 52
+  },
+  "LIT-USDT-SWAP_SHORT": {
+    "symbol": "LIT-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 2.5821300000000003,
+    "created_time": "2026-08-19T16:53:50.401929+00:00",
     "score": 51
   }
 }
