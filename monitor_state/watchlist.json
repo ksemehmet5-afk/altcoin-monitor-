@@ -34,13 +34,6 @@
     "created_time": "2026-08-19T14:50:42.680721+00:00",
     "score": 43
   },
-  "TSLA-USDT-SWAP_LONG": {
-    "symbol": "TSLA-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 347.09475,
-    "created_time": "2026-08-19T14:50:42.680721+00:00",
-    "score": 56
-  },
   "AVAX-USDT-SWAP_LONG": {
     "symbol": "AVAX-USDT-SWAP",
     "direction": "LONG",
@@ -139,13 +132,6 @@
     "created_time": "2026-08-19T16:20:22.033926+00:00",
     "score": 44
   },
-  "SOL-USDT-SWAP_LONG": {
-    "symbol": "SOL-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 81.29074999999999,
-    "created_time": "2026-08-19T16:20:22.033926+00:00",
-    "score": 51
-  },
   "HYPE-USDT-SWAP_LONG": {
     "symbol": "HYPE-USDT-SWAP",
     "direction": "LONG",
@@ -159,5 +145,19 @@
     "target_level": 2.5821300000000003,
     "created_time": "2026-08-19T16:53:50.401929+00:00",
     "score": 51
+  },
+  "BIO-USDT-SWAP_LONG": {
+    "symbol": "BIO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.027171375,
+    "created_time": "2026-08-19T17:18:51.250950+00:00",
+    "score": 56
+  },
+  "PUMP-USDT-SWAP_LONG": {
+    "symbol": "PUMP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0031590125,
+    "created_time": "2026-08-19T17:18:51.250950+00:00",
+    "score": 52
   }
 }
