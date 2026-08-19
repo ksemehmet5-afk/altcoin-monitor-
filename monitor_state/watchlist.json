@@ -5,5 +5,12 @@
     "target_level": 0.07806375,
     "created_time": "2026-08-19T08:40:45.973317+00:00",
     "score": 25
+  },
+  "CAP-USDT-SWAP_SHORT": {
+    "symbol": "CAP-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.07122725,
+    "created_time": "2026-08-19T12:26:14.850390+00:00",
+    "score": 60
   }
 }
