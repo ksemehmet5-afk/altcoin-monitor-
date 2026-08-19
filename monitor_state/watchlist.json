@@ -26,5 +26,19 @@
     "target_level": 0.112881125,
     "created_time": "2026-08-18T23:43:23.024929+00:00",
     "score": 62
+  },
+  "SNXX-USDT-SWAP_LONG": {
+    "symbol": "SNXX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 15.217375,
+    "created_time": "2026-08-19T01:07:46.228806+00:00",
+    "score": 60
+  },
+  "UB-USDT-SWAP_LONG": {
+    "symbol": "UB-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.1206125,
+    "created_time": "2026-08-19T01:07:46.228806+00:00",
+    "score": 41
   }
 }
