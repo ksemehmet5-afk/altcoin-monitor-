@@ -27,13 +27,6 @@
     "created_time": "2026-08-19T08:40:45.973317+00:00",
     "score": 25
   },
-  "DOS-USDT-SWAP_SHORT": {
-    "symbol": "DOS-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.2663625,
-    "created_time": "2026-08-19T10:52:39.199747+00:00",
-    "score": 66
-  },
   "RE-USDT-SWAP_SHORT": {
     "symbol": "RE-USDT-SWAP",
     "direction": "SHORT",
