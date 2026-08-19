@@ -1,1 +1,23 @@
-{}
+{
+  "AEON-USDT-SWAP_SHORT": {
+    "symbol": "AEON-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.087004125,
+    "created_time": "2026-08-19T04:07:09.213591+00:00",
+    "score": 52
+  },
+  "APR-USDT-SWAP_LONG": {
+    "symbol": "APR-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.202945,
+    "created_time": "2026-08-19T04:07:09.213591+00:00",
+    "score": 52
+  },
+  "DOS-USDT-SWAP_SHORT": {
+    "symbol": "DOS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.257985,
+    "created_time": "2026-08-19T04:07:09.213591+00:00",
+    "score": 63
+  }
+}
