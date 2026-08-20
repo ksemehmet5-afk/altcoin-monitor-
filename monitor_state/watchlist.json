@@ -34,13 +34,6 @@
     "created_time": "2026-08-20T05:53:46.365503+00:00",
     "score": 41
   },
-  "INTC-USDT-SWAP_LONG": {
-    "symbol": "INTC-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 94.0025,
-    "created_time": "2026-08-20T06:29:32.052652+00:00",
-    "score": 59
-  },
   "TRUMP-USDT-SWAP_LONG": {
     "symbol": "TRUMP-USDT-SWAP",
     "direction": "LONG",
@@ -62,11 +55,18 @@
     "created_time": "2026-08-20T07:23:10.904260+00:00",
     "score": 59
   },
-  "PIEVERSE-USDT-SWAP_LONG": {
-    "symbol": "PIEVERSE-USDT-SWAP",
+  "AVAX-USDT-SWAP_LONG": {
+    "symbol": "AVAX-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.9521474999999999,
-    "created_time": "2026-08-20T07:23:10.904260+00:00",
-    "score": 39
+    "target_level": 6.7199375,
+    "created_time": "2026-08-20T08:02:46.309968+00:00",
+    "score": 52
+  },
+  "BIO-USDT-SWAP_SHORT": {
+    "symbol": "BIO-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.031640625000000006,
+    "created_time": "2026-08-20T08:02:46.309968+00:00",
+    "score": 50
   }
 }
