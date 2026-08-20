@@ -97,18 +97,18 @@
     "created_time": "2026-08-20T09:57:17.105621+00:00",
     "score": 44
   },
-  "VIRTUAL-USDT-SWAP_LONG": {
-    "symbol": "VIRTUAL-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.6447125,
-    "created_time": "2026-08-20T09:57:17.105621+00:00",
-    "score": 57
-  },
   "WLFI-USDT-SWAP_SHORT": {
     "symbol": "WLFI-USDT-SWAP",
     "direction": "SHORT",
     "target_level": 0.0611025,
     "created_time": "2026-08-20T09:57:17.105621+00:00",
     "score": 44
+  },
+  "BCH-USDT-SWAP_LONG": {
+    "symbol": "BCH-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 214.18875000000003,
+    "created_time": "2026-08-20T10:26:24.085873+00:00",
+    "score": 52
   }
 }
