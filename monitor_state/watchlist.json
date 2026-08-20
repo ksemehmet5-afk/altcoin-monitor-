@@ -83,13 +83,6 @@
     "created_time": "2026-08-20T09:24:10.967708+00:00",
     "score": 45
   },
-  "PUMP-USDT-SWAP_SHORT": {
-    "symbol": "PUMP-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.0033584625,
-    "created_time": "2026-08-20T09:57:17.105621+00:00",
-    "score": 44
-  },
   "WLFI-USDT-SWAP_SHORT": {
     "symbol": "WLFI-USDT-SWAP",
     "direction": "SHORT",
