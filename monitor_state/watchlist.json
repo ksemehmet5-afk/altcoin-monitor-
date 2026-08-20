@@ -13,11 +13,11 @@
     "created_time": "2026-08-20T02:15:39.938883+00:00",
     "score": 43
   },
-  "MON-USDT-SWAP_SHORT": {
-    "symbol": "MON-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.023500124999999997,
-    "created_time": "2026-08-20T03:22:29.551074+00:00",
-    "score": 34
+  "BOME-USDT-SWAP_LONG": {
+    "symbol": "BOME-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0008893975,
+    "created_time": "2026-08-20T04:04:37.947014+00:00",
+    "score": 54
   }
 }
