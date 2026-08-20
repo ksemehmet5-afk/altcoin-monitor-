@@ -1,11 +1,4 @@
 {
-  "BCH-USDT-SWAP_LONG": {
-    "symbol": "BCH-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 214.18875000000003,
-    "created_time": "2026-08-20T10:26:24.085873+00:00",
-    "score": 52
-  },
   "GRVT-USDT-SWAP_SHORT": {
     "symbol": "GRVT-USDT-SWAP",
     "direction": "SHORT",
@@ -62,18 +55,25 @@
     "created_time": "2026-08-20T14:07:22.452355+00:00",
     "score": 59
   },
-  "SNDK-USDT-SWAP_LONG": {
-    "symbol": "SNDK-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 1606.11175,
-    "created_time": "2026-08-20T14:07:22.452355+00:00",
-    "score": 65
-  },
   "SNXX-USDT-SWAP_LONG": {
     "symbol": "SNXX-USDT-SWAP",
     "direction": "LONG",
     "target_level": 15.019875,
     "created_time": "2026-08-20T14:07:22.452355+00:00",
     "score": 72
+  },
+  "BICO-USDT-SWAP_SHORT": {
+    "symbol": "BICO-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.019804500000000003,
+    "created_time": "2026-08-20T14:52:30.469370+00:00",
+    "score": 65
+  },
+  "QQQ-USDT-SWAP_LONG": {
+    "symbol": "QQQ-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 711.295,
+    "created_time": "2026-08-20T14:52:30.469370+00:00",
+    "score": 50
   }
 }
