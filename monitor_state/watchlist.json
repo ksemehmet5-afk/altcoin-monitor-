@@ -1,11 +1,4 @@
 {
-  "TRUMP-USDT-SWAP_LONG": {
-    "symbol": "TRUMP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 1.6392499999999999,
-    "created_time": "2026-08-20T06:29:32.052652+00:00",
-    "score": 60
-  },
   "ETHFI-USDT-SWAP_LONG": {
     "symbol": "ETHFI-USDT-SWAP",
     "direction": "LONG",
@@ -110,5 +103,19 @@
     "target_level": 214.18875000000003,
     "created_time": "2026-08-20T10:26:24.085873+00:00",
     "score": 52
+  },
+  "GRVT-USDT-SWAP_SHORT": {
+    "symbol": "GRVT-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.29498175000000004,
+    "created_time": "2026-08-20T10:55:30.063680+00:00",
+    "score": 55
+  },
+  "SAMSUNG-USDT-SWAP_SHORT": {
+    "symbol": "SAMSUNG-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 194.44125,
+    "created_time": "2026-08-20T10:55:30.063680+00:00",
+    "score": 78
   }
 }
