@@ -1,39 +1,4 @@
 {
-  "CHIP-USDT-SWAP_LONG": {
-    "symbol": "CHIP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.032224499999999996,
-    "created_time": "2026-08-21T02:18:06.772534+00:00",
-    "score": 64
-  },
-  "ENA-USDT-SWAP_LONG": {
-    "symbol": "ENA-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.12107899999999999,
-    "created_time": "2026-08-21T02:18:06.772534+00:00",
-    "score": 60
-  },
-  "NBIS-USDT-SWAP_LONG": {
-    "symbol": "NBIS-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 221.703625,
-    "created_time": "2026-08-21T02:18:06.772534+00:00",
-    "score": 59
-  },
-  "PENGU-USDT-SWAP_LONG": {
-    "symbol": "PENGU-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.0073183625,
-    "created_time": "2026-08-21T02:18:06.772534+00:00",
-    "score": 65
-  },
-  "SKHY-USDT-SWAP_LONG": {
-    "symbol": "SKHY-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 165.732125,
-    "created_time": "2026-08-21T02:18:06.772534+00:00",
-    "score": 59
-  },
   "CRV-USDT-SWAP_SHORT": {
     "symbol": "CRV-USDT-SWAP",
     "direction": "SHORT",
@@ -103,5 +68,33 @@
     "target_level": 240.0675,
     "created_time": "2026-08-21T05:55:07.211002+00:00",
     "score": 58
+  },
+  "DOGE-USDT-SWAP_LONG": {
+    "symbol": "DOGE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0829775,
+    "created_time": "2026-08-21T06:29:58.975731+00:00",
+    "score": 64
+  },
+  "MON-USDT-SWAP_LONG": {
+    "symbol": "MON-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.027225375000000003,
+    "created_time": "2026-08-21T06:29:58.975731+00:00",
+    "score": 60
+  },
+  "PEPE-USDT-SWAP_LONG": {
+    "symbol": "PEPE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 3.324475e-06,
+    "created_time": "2026-08-21T06:29:58.975731+00:00",
+    "score": 57
+  },
+  "ZAMA-USDT-SWAP_SHORT": {
+    "symbol": "ZAMA-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.046109000000000004,
+    "created_time": "2026-08-21T06:29:58.975731+00:00",
+    "score": 29
   }
 }
