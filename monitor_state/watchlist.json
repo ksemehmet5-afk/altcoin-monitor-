@@ -1,18 +1,4 @@
 {
-  "H-USDT-SWAP_LONG": {
-    "symbol": "H-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.07614,
-    "created_time": "2026-08-21T16:21:26.470678+00:00",
-    "score": 49
-  },
-  "ZEC-USDT-SWAP_LONG": {
-    "symbol": "ZEC-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 662.365625,
-    "created_time": "2026-08-21T16:21:26.470678+00:00",
-    "score": 45
-  },
   "CRV-USDT-SWAP_LONG": {
     "symbol": "CRV-USDT-SWAP",
     "direction": "LONG",
@@ -40,5 +26,12 @@
     "target_level": 5.3512625e-06,
     "created_time": "2026-08-21T20:15:49.003899+00:00",
     "score": 57
+  },
+  "AEON-USDT-SWAP_SHORT": {
+    "symbol": "AEON-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.07206974999999999,
+    "created_time": "2026-08-21T20:46:19.264879+00:00",
+    "score": 37
   }
 }
