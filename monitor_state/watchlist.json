@@ -6,13 +6,6 @@
     "created_time": "2026-08-21T08:03:44.387766+00:00",
     "score": 71
   },
-  "MSTR-USDT-SWAP_LONG": {
-    "symbol": "MSTR-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 120.781125,
-    "created_time": "2026-08-21T08:03:44.387766+00:00",
-    "score": 54
-  },
   "SNXX-USDT-SWAP_LONG": {
     "symbol": "SNXX-USDT-SWAP",
     "direction": "LONG",
@@ -96,5 +89,12 @@
     "target_level": 3.132475,
     "created_time": "2026-08-21T11:02:00.529607+00:00",
     "score": 52
+  },
+  "RE-USDT-SWAP_LONG": {
+    "symbol": "RE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.51511,
+    "created_time": "2026-08-21T11:59:34.135566+00:00",
+    "score": 58
   }
 }
