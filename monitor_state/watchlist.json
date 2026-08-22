@@ -12,5 +12,75 @@
     "target_level": 0.004572125,
     "created_time": "2026-08-22T11:55:43.556034+00:00",
     "score": 65
+  },
+  "AAVE-USDT-SWAP_LONG": {
+    "symbol": "AAVE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 124.849625,
+    "created_time": "2026-08-22T12:23:13.692293+00:00",
+    "score": 60
+  },
+  "BIO-USDT-SWAP_LONG": {
+    "symbol": "BIO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.03142625,
+    "created_time": "2026-08-22T12:23:13.692293+00:00",
+    "score": 44
+  },
+  "CAP-USDT-SWAP_LONG": {
+    "symbol": "CAP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0705605,
+    "created_time": "2026-08-22T12:23:13.692293+00:00",
+    "score": 43
+  },
+  "CRV-USDT-SWAP_LONG": {
+    "symbol": "CRV-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.33466375,
+    "created_time": "2026-08-22T12:23:13.692293+00:00",
+    "score": 52
+  },
+  "ENA-USDT-SWAP_LONG": {
+    "symbol": "ENA-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.157052,
+    "created_time": "2026-08-22T12:23:13.692293+00:00",
+    "score": 70
+  },
+  "ICP-USDT-SWAP_LONG": {
+    "symbol": "ICP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 2.3877750000000004,
+    "created_time": "2026-08-22T12:23:13.692293+00:00",
+    "score": 59
+  },
+  "LIT-USDT-SWAP_LONG": {
+    "symbol": "LIT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 3.21599125,
+    "created_time": "2026-08-22T12:23:13.692293+00:00",
+    "score": 47
+  },
+  "MMT-USDT-SWAP_LONG": {
+    "symbol": "MMT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.18828,
+    "created_time": "2026-08-22T12:23:13.692293+00:00",
+    "score": 56
+  },
+  "PEPE-USDT-SWAP_LONG": {
+    "symbol": "PEPE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 4.027125e-06,
+    "created_time": "2026-08-22T12:23:13.692293+00:00",
+    "score": 54
+  },
+  "UB-USDT-SWAP_LONG": {
+    "symbol": "UB-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.12232225,
+    "created_time": "2026-08-22T12:23:13.692293+00:00",
+    "score": 47
   }
 }
