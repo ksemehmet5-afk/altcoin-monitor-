@@ -26,5 +26,12 @@
     "target_level": 825.41125,
     "created_time": "2026-08-22T17:35:07.726645+00:00",
     "score": 45
+  },
+  "LTC-USDT-SWAP_LONG": {
+    "symbol": "LTC-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 53.1595,
+    "created_time": "2026-08-22T19:56:02.410699+00:00",
+    "score": 52
   }
 }
