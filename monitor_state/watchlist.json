@@ -26,12 +26,5 @@
     "target_level": 0.34583775,
     "created_time": "2026-08-22T03:55:16.319437+00:00",
     "score": 45
-  },
-  "TRUMP-USDT-SWAP_SHORT": {
-    "symbol": "TRUMP-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 2.9929500000000004,
-    "created_time": "2026-08-22T05:22:25.823534+00:00",
-    "score": 61
   }
 }
