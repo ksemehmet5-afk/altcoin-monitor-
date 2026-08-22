@@ -47,5 +47,26 @@
     "target_level": 0.27058487499999995,
     "created_time": "2026-08-22T16:17:27.625590+00:00",
     "score": 52
+  },
+  "BONK-USDT-SWAP_LONG": {
+    "symbol": "BONK-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 3.24295e-06,
+    "created_time": "2026-08-22T16:46:40.839123+00:00",
+    "score": 49
+  },
+  "MON-USDT-SWAP_SHORT": {
+    "symbol": "MON-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.02911875,
+    "created_time": "2026-08-22T16:46:40.839123+00:00",
+    "score": 38
+  },
+  "ZRO-USDT-SWAP_LONG": {
+    "symbol": "ZRO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1.0292675,
+    "created_time": "2026-08-22T16:46:40.839123+00:00",
+    "score": 32
   }
 }
