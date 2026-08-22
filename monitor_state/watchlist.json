@@ -1,11 +1,4 @@
 {
-  "MON-USDT-SWAP_LONG": {
-    "symbol": "MON-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.0281705,
-    "created_time": "2026-08-21T19:55:19.063510+00:00",
-    "score": 53
-  },
   "SHIB-USDT-SWAP_LONG": {
     "symbol": "SHIB-USDT-SWAP",
     "direction": "LONG",
@@ -146,13 +139,6 @@
     "created_time": "2026-08-21T22:47:42.403621+00:00",
     "score": 52
   },
-  "XLM-USDT-SWAP_LONG": {
-    "symbol": "XLM-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.20049212499999997,
-    "created_time": "2026-08-21T22:47:42.403621+00:00",
-    "score": 61
-  },
   "ENS-USDT-SWAP_LONG": {
     "symbol": "ENS-USDT-SWAP",
     "direction": "LONG",
@@ -201,5 +187,12 @@
     "target_level": 0.029220750000000004,
     "created_time": "2026-08-21T23:40:35.946043+00:00",
     "score": 49
+  },
+  "GALA-USDT-SWAP_LONG": {
+    "symbol": "GALA-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0021517624999999995,
+    "created_time": "2026-08-21T23:57:53.146237+00:00",
+    "score": 42
   }
 }
