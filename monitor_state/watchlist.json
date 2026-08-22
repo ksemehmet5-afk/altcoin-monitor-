@@ -68,5 +68,19 @@
     "target_level": 825.41125,
     "created_time": "2026-08-22T17:35:07.726645+00:00",
     "score": 45
+  },
+  "AAVE-USDT-SWAP_LONG": {
+    "symbol": "AAVE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 125.11625000000001,
+    "created_time": "2026-08-22T17:55:49.176535+00:00",
+    "score": 58
+  },
+  "ARB-USDT-SWAP_LONG": {
+    "symbol": "ARB-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.09980675,
+    "created_time": "2026-08-22T17:55:49.176535+00:00",
+    "score": 51
   }
 }
