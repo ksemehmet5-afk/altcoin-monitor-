@@ -33,5 +33,26 @@
     "target_level": 0.11188,
     "created_time": "2026-08-22T07:07:51.745285+00:00",
     "score": 70
+  },
+  "BEAT-USDT-SWAP_LONG": {
+    "symbol": "BEAT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.1702075,
+    "created_time": "2026-08-22T07:43:56.864682+00:00",
+    "score": 73
+  },
+  "DOGE-USDT-SWAP_LONG": {
+    "symbol": "DOGE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.09264925,
+    "created_time": "2026-08-22T07:43:56.864682+00:00",
+    "score": 60
+  },
+  "FARTCOIN-USDT-SWAP_LONG": {
+    "symbol": "FARTCOIN-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.1954375,
+    "created_time": "2026-08-22T07:43:56.864682+00:00",
+    "score": 56
   }
 }
