@@ -19,5 +19,19 @@
     "target_level": 17.982375,
     "created_time": "2026-08-22T14:59:06.326447+00:00",
     "score": 56
+  },
+  "FARTCOIN-USDT-SWAP_LONG": {
+    "symbol": "FARTCOIN-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.1981525,
+    "created_time": "2026-08-22T15:42:37.174887+00:00",
+    "score": 58
+  },
+  "POL-USDT-SWAP_LONG": {
+    "symbol": "POL-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.10907249999999999,
+    "created_time": "2026-08-22T15:42:37.174887+00:00",
+    "score": 43
   }
 }
