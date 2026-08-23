@@ -12,5 +12,19 @@
     "target_level": 0.2210025,
     "created_time": "2026-08-23T19:15:42.701866+00:00",
     "score": 63
+  },
+  "GRASS-USDT-SWAP_LONG": {
+    "symbol": "GRASS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.36180249999999997,
+    "created_time": "2026-08-23T22:45:08.433010+00:00",
+    "score": 38
+  },
+  "PUMP-USDT-SWAP_LONG": {
+    "symbol": "PUMP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0053167,
+    "created_time": "2026-08-23T22:45:08.433010+00:00",
+    "score": 47
   }
 }
