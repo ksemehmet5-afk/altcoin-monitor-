@@ -1,16 +1,23 @@
 {
-  "TRUMP-USDT-SWAP_SHORT": {
-    "symbol": "TRUMP-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 2.4453750000000003,
-    "created_time": "2026-08-22T23:42:02.493128+00:00",
-    "score": 61
-  },
   "UB-USDT-SWAP_LONG": {
     "symbol": "UB-USDT-SWAP",
     "direction": "LONG",
     "target_level": 0.12215925,
     "created_time": "2026-08-23T03:33:54.058113+00:00",
     "score": 37
+  },
+  "CHIP-USDT-SWAP_LONG": {
+    "symbol": "CHIP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.03200775,
+    "created_time": "2026-08-23T04:21:00.752721+00:00",
+    "score": 62
+  },
+  "TRUMP-USDT-SWAP_LONG": {
+    "symbol": "TRUMP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 2.2593999999999994,
+    "created_time": "2026-08-23T04:21:00.752721+00:00",
+    "score": 53
   }
 }
