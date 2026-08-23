@@ -62,25 +62,11 @@
     "created_time": "2026-08-23T11:20:03.624179+00:00",
     "score": 44
   },
-  "DASH-USDT-SWAP_LONG": {
-    "symbol": "DASH-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 40.90225,
-    "created_time": "2026-08-23T11:42:36.088151+00:00",
-    "score": 59
-  },
   "LINK-USDT-SWAP_LONG": {
     "symbol": "LINK-USDT-SWAP",
     "direction": "LONG",
     "target_level": 11.277249999999999,
     "created_time": "2026-08-23T11:42:36.088151+00:00",
     "score": 57
-  },
-  "STX-USDT-SWAP_SHORT": {
-    "symbol": "STX-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.228825,
-    "created_time": "2026-08-23T11:42:36.088151+00:00",
-    "score": 58
   }
 }
