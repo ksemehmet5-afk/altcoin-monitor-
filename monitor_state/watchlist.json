@@ -1,11 +1,4 @@
 {
-  "MORPHO-USDT-SWAP_LONG": {
-    "symbol": "MORPHO-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 2.5143724999999995,
-    "created_time": "2026-08-23T14:41:02.426027+00:00",
-    "score": 45
-  },
   "VIRTUAL-USDT-SWAP_LONG": {
     "symbol": "VIRTUAL-USDT-SWAP",
     "direction": "LONG",
@@ -40,5 +33,12 @@
     "target_level": 0.12128275,
     "created_time": "2026-08-23T16:48:31.349695+00:00",
     "score": 50
+  },
+  "TAO-USDT-SWAP_LONG": {
+    "symbol": "TAO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 237.675,
+    "created_time": "2026-08-23T18:54:17.168366+00:00",
+    "score": 58
   }
 }
