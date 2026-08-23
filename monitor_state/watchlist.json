@@ -1,11 +1,4 @@
 {
-  "ONDO-USDT-SWAP_LONG": {
-    "symbol": "ONDO-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.36781749999999996,
-    "created_time": "2026-08-23T11:20:03.624179+00:00",
-    "score": 44
-  },
   "LINK-USDT-SWAP_LONG": {
     "symbol": "LINK-USDT-SWAP",
     "direction": "LONG",
