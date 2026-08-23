@@ -26,5 +26,19 @@
     "target_level": 1.1674125,
     "created_time": "2026-08-23T06:46:59.728776+00:00",
     "score": 45
+  },
+  "MMT-USDT-SWAP_LONG": {
+    "symbol": "MMT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.171645,
+    "created_time": "2026-08-23T07:25:44.775580+00:00",
+    "score": 42
+  },
+  "STX-USDT-SWAP_LONG": {
+    "symbol": "STX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.21879,
+    "created_time": "2026-08-23T07:25:44.775580+00:00",
+    "score": 60
   }
 }
