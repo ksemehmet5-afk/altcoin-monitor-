@@ -19,5 +19,12 @@
     "target_level": 0.71149375,
     "created_time": "2026-08-23T14:58:53.341438+00:00",
     "score": 47
+  },
+  "PENGU-USDT-SWAP_LONG": {
+    "symbol": "PENGU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.009272625,
+    "created_time": "2026-08-23T16:23:59.979377+00:00",
+    "score": 70
   }
 }
