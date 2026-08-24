@@ -33,5 +33,26 @@
     "target_level": 132.334,
     "created_time": "2026-08-24T03:28:55.789227+00:00",
     "score": 58
+  },
+  "ENA-USDT-SWAP_LONG": {
+    "symbol": "ENA-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.16549512499999997,
+    "created_time": "2026-08-24T04:21:07.383846+00:00",
+    "score": 56
+  },
+  "NBIS-USDT-SWAP_LONG": {
+    "symbol": "NBIS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 208.05637499999997,
+    "created_time": "2026-08-24T04:21:07.383846+00:00",
+    "score": 43
+  },
+  "SNXX-USDT-SWAP_LONG": {
+    "symbol": "SNXX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 13.777000000000001,
+    "created_time": "2026-08-24T04:21:07.383846+00:00",
+    "score": 71
   }
 }
