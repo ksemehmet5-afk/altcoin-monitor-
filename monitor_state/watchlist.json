@@ -13,25 +13,11 @@
     "created_time": "2026-08-24T09:11:26.002738+00:00",
     "score": 46
   },
-  "BEAT-USDT-SWAP_LONG": {
-    "symbol": "BEAT-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.13734875,
-    "created_time": "2026-08-24T10:02:08.197695+00:00",
-    "score": 60
-  },
   "DOS-USDT-SWAP_SHORT": {
     "symbol": "DOS-USDT-SWAP",
     "direction": "SHORT",
     "target_level": 0.2356375,
     "created_time": "2026-08-24T10:51:10.792058+00:00",
     "score": 36
-  },
-  "ZAMA-USDT-SWAP_LONG": {
-    "symbol": "ZAMA-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.060030125,
-    "created_time": "2026-08-24T11:50:31.326332+00:00",
-    "score": 54
   }
 }
