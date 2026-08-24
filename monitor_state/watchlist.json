@@ -1,11 +1,4 @@
 {
-  "ICP-USDT-SWAP_LONG": {
-    "symbol": "ICP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 2.3541999999999996,
-    "created_time": "2026-08-24T03:28:55.789227+00:00",
-    "score": 41
-  },
   "NBIS-USDT-SWAP_LONG": {
     "symbol": "NBIS-USDT-SWAP",
     "direction": "LONG",
