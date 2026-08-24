@@ -1,31 +1,10 @@
 {
-  "DOS-USDT-SWAP_SHORT": {
-    "symbol": "DOS-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.24661374999999996,
-    "created_time": "2026-08-24T02:22:33.548046+00:00",
-    "score": 52
-  },
-  "ETHFI-USDT-SWAP_LONG": {
-    "symbol": "ETHFI-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.62297,
-    "created_time": "2026-08-24T02:22:33.548046+00:00",
-    "score": 59
-  },
   "ICP-USDT-SWAP_LONG": {
     "symbol": "ICP-USDT-SWAP",
     "direction": "LONG",
     "target_level": 2.3541999999999996,
     "created_time": "2026-08-24T03:28:55.789227+00:00",
     "score": 41
-  },
-  "ENA-USDT-SWAP_LONG": {
-    "symbol": "ENA-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.16549512499999997,
-    "created_time": "2026-08-24T04:21:07.383846+00:00",
-    "score": 56
   },
   "NBIS-USDT-SWAP_LONG": {
     "symbol": "NBIS-USDT-SWAP",
@@ -34,25 +13,39 @@
     "created_time": "2026-08-24T04:21:07.383846+00:00",
     "score": 43
   },
-  "SNXX-USDT-SWAP_LONG": {
-    "symbol": "SNXX-USDT-SWAP",
+  "DASH-USDT-SWAP_LONG": {
+    "symbol": "DASH-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 13.777000000000001,
-    "created_time": "2026-08-24T04:21:07.383846+00:00",
-    "score": 71
+    "target_level": 41.396,
+    "created_time": "2026-08-24T06:37:45.610724+00:00",
+    "score": 58
   },
-  "AAVE-USDT-SWAP_LONG": {
-    "symbol": "AAVE-USDT-SWAP",
+  "PEOPLE-USDT-SWAP_LONG": {
+    "symbol": "PEOPLE-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 143.58525,
-    "created_time": "2026-08-24T05:50:56.856616+00:00",
-    "score": 42
+    "target_level": 0.010426225,
+    "created_time": "2026-08-24T06:37:45.610724+00:00",
+    "score": 37
   },
-  "GRASS-USDT-SWAP_LONG": {
-    "symbol": "GRASS-USDT-SWAP",
+  "RE-USDT-SWAP_LONG": {
+    "symbol": "RE-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.36834,
-    "created_time": "2026-08-24T05:50:56.856616+00:00",
-    "score": 60
+    "target_level": 0.5439940000000001,
+    "created_time": "2026-08-24T06:37:45.610724+00:00",
+    "score": 47
+  },
+  "SNDK-USDT-SWAP_LONG": {
+    "symbol": "SNDK-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1508.949375,
+    "created_time": "2026-08-24T06:37:45.610724+00:00",
+    "score": 59
+  },
+  "WLFI-USDT-SWAP_LONG": {
+    "symbol": "WLFI-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0581835,
+    "created_time": "2026-08-24T06:37:45.610724+00:00",
+    "score": 47
   }
 }
