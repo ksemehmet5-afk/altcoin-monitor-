@@ -33,5 +33,47 @@
     "target_level": 1442.490625,
     "created_time": "2026-08-24T15:07:39.137552+00:00",
     "score": 62
+  },
+  "FARTCOIN-USDT-SWAP_LONG": {
+    "symbol": "FARTCOIN-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.18602,
+    "created_time": "2026-08-24T15:53:04.819712+00:00",
+    "score": 58
+  },
+  "NEAR-USDT-SWAP_LONG": {
+    "symbol": "NEAR-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1.97105,
+    "created_time": "2026-08-24T15:53:04.819712+00:00",
+    "score": 51
+  },
+  "QQQ-USDT-SWAP_LONG": {
+    "symbol": "QQQ-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 704.95125,
+    "created_time": "2026-08-24T15:53:04.819712+00:00",
+    "score": 53
+  },
+  "SKHYNIX-USDT-SWAP_SHORT": {
+    "symbol": "SKHYNIX-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 1198.90125,
+    "created_time": "2026-08-24T15:53:04.819712+00:00",
+    "score": 50
+  },
+  "VIRTUAL-USDT-SWAP_LONG": {
+    "symbol": "VIRTUAL-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.7991837500000001,
+    "created_time": "2026-08-24T15:53:04.819712+00:00",
+    "score": 57
+  },
+  "XAG-USDT-SWAP_LONG": {
+    "symbol": "XAG-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 67.72275,
+    "created_time": "2026-08-24T15:53:04.819712+00:00",
+    "score": 65
   }
 }
