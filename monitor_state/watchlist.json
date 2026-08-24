@@ -1,25 +1,4 @@
 {
-  "NBIS-USDT-SWAP_LONG": {
-    "symbol": "NBIS-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 208.05637499999997,
-    "created_time": "2026-08-24T04:21:07.383846+00:00",
-    "score": 43
-  },
-  "DASH-USDT-SWAP_LONG": {
-    "symbol": "DASH-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 41.396,
-    "created_time": "2026-08-24T06:37:45.610724+00:00",
-    "score": 58
-  },
-  "PEOPLE-USDT-SWAP_LONG": {
-    "symbol": "PEOPLE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.010426225,
-    "created_time": "2026-08-24T06:37:45.610724+00:00",
-    "score": 37
-  },
   "RE-USDT-SWAP_LONG": {
     "symbol": "RE-USDT-SWAP",
     "direction": "LONG",
