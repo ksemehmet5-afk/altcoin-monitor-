@@ -19,5 +19,19 @@
     "target_level": 1274.1275,
     "created_time": "2026-08-24T00:59:08.508627+00:00",
     "score": 59
+  },
+  "DOS-USDT-SWAP_SHORT": {
+    "symbol": "DOS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.24661374999999996,
+    "created_time": "2026-08-24T02:22:33.548046+00:00",
+    "score": 52
+  },
+  "ETHFI-USDT-SWAP_LONG": {
+    "symbol": "ETHFI-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.62297,
+    "created_time": "2026-08-24T02:22:33.548046+00:00",
+    "score": 59
   }
 }
