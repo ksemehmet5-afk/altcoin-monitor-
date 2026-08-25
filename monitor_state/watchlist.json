@@ -20,11 +20,11 @@
     "created_time": "2026-08-25T07:28:24.432540+00:00",
     "score": 50
   },
-  "UB-USDT-SWAP_LONG": {
-    "symbol": "UB-USDT-SWAP",
+  "DOS-USDT-SWAP_LONG": {
+    "symbol": "DOS-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.128483625,
-    "created_time": "2026-08-25T07:28:24.432540+00:00",
-    "score": 41
+    "target_level": 0.23887625,
+    "created_time": "2026-08-25T08:57:34.216629+00:00",
+    "score": 54
   }
 }
