@@ -13,13 +13,6 @@
     "created_time": "2026-08-25T08:57:34.216629+00:00",
     "score": 54
   },
-  "BE-USDT-SWAP_LONG": {
-    "symbol": "BE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 216.69699999999997,
-    "created_time": "2026-08-25T10:04:36.954099+00:00",
-    "score": 42
-  },
   "CBRS-USDT-SWAP_LONG": {
     "symbol": "CBRS-USDT-SWAP",
     "direction": "LONG",
@@ -40,5 +33,12 @@
     "target_level": 219.94587499999997,
     "created_time": "2026-08-25T10:04:36.954099+00:00",
     "score": 65
+  },
+  "H-USDT-SWAP_LONG": {
+    "symbol": "H-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0793425,
+    "created_time": "2026-08-25T11:18:36.305756+00:00",
+    "score": 53
   }
 }
