@@ -6,18 +6,25 @@
     "created_time": "2026-08-26T08:22:16.161988+00:00",
     "score": 56
   },
-  "SNXX-USDT-SWAP_SHORT": {
-    "symbol": "SNXX-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 12.77775,
-    "created_time": "2026-08-26T08:22:16.161988+00:00",
-    "score": 55
-  },
   "ZHIPU-USDT-SWAP_LONG": {
     "symbol": "ZHIPU-USDT-SWAP",
     "direction": "LONG",
     "target_level": 135.86025,
     "created_time": "2026-08-26T10:25:15.648474+00:00",
     "score": 65
+  },
+  "FARTCOIN-USDT-SWAP_LONG": {
+    "symbol": "FARTCOIN-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.208525,
+    "created_time": "2026-08-26T10:59:08.787124+00:00",
+    "score": 43
+  },
+  "HYPE-USDT-SWAP_LONG": {
+    "symbol": "HYPE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 82.26625,
+    "created_time": "2026-08-26T10:59:08.787124+00:00",
+    "score": 41
   }
 }
