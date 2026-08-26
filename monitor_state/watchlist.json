@@ -1,11 +1,4 @@
 {
-  "SAMSUNG-USDT-SWAP_LONG": {
-    "symbol": "SAMSUNG-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 186.22375,
-    "created_time": "2026-08-26T00:44:30.963916+00:00",
-    "score": 51
-  },
   "FARTCOIN-USDT-SWAP_LONG": {
     "symbol": "FARTCOIN-USDT-SWAP",
     "direction": "LONG",
@@ -34,13 +27,6 @@
     "created_time": "2026-08-26T02:14:01.569733+00:00",
     "score": 81
   },
-  "WIF-USDT-SWAP_LONG": {
-    "symbol": "WIF-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.20056125,
-    "created_time": "2026-08-26T02:14:01.569733+00:00",
-    "score": 53
-  },
   "ZHIPU-USDT-SWAP_LONG": {
     "symbol": "ZHIPU-USDT-SWAP",
     "direction": "LONG",
@@ -54,5 +40,12 @@
     "target_level": 0.07059637499999999,
     "created_time": "2026-08-26T04:08:20.148318+00:00",
     "score": 42
+  },
+  "PEOPLE-USDT-SWAP_LONG": {
+    "symbol": "PEOPLE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.00819605,
+    "created_time": "2026-08-26T04:53:46.404055+00:00",
+    "score": 52
   }
 }
