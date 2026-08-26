@@ -1,18 +1,4 @@
 {
-  "SNDK-USDT-SWAP_LONG": {
-    "symbol": "SNDK-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 1430.522125,
-    "created_time": "2026-08-26T13:13:39.998300+00:00",
-    "score": 54
-  },
-  "GRVT-USDT-SWAP_SHORT": {
-    "symbol": "GRVT-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.1831005,
-    "created_time": "2026-08-26T14:03:20.391711+00:00",
-    "score": 39
-  },
   "SAMSUNG-USDT-SWAP_LONG": {
     "symbol": "SAMSUNG-USDT-SWAP",
     "direction": "LONG",
@@ -26,5 +12,19 @@
     "target_level": 0.2778225,
     "created_time": "2026-08-26T16:33:11.335260+00:00",
     "score": 51
+  },
+  "INTC-USDT-SWAP_LONG": {
+    "symbol": "INTC-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 87.32625,
+    "created_time": "2026-08-26T18:22:27.295232+00:00",
+    "score": 54
+  },
+  "NVDA-USDT-SWAP_LONG": {
+    "symbol": "NVDA-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 210.74025,
+    "created_time": "2026-08-26T18:22:27.295232+00:00",
+    "score": 71
   }
 }
