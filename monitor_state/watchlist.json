@@ -19,26 +19,5 @@
     "target_level": 0.208525,
     "created_time": "2026-08-26T10:59:08.787124+00:00",
     "score": 43
-  },
-  "HYPE-USDT-SWAP_LONG": {
-    "symbol": "HYPE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 82.26625,
-    "created_time": "2026-08-26T10:59:08.787124+00:00",
-    "score": 41
-  },
-  "BICO-USDT-SWAP_SHORT": {
-    "symbol": "BICO-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.021880125,
-    "created_time": "2026-08-26T11:31:45.555031+00:00",
-    "score": 61
-  },
-  "VIRTUAL-USDT-SWAP_LONG": {
-    "symbol": "VIRTUAL-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.7530825000000001,
-    "created_time": "2026-08-26T11:31:45.555031+00:00",
-    "score": 38
   }
 }
