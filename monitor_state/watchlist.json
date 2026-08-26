@@ -40,12 +40,5 @@
     "target_level": 0.07059637499999999,
     "created_time": "2026-08-26T04:08:20.148318+00:00",
     "score": 42
-  },
-  "PEOPLE-USDT-SWAP_LONG": {
-    "symbol": "PEOPLE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.00819605,
-    "created_time": "2026-08-26T04:53:46.404055+00:00",
-    "score": 52
   }
 }
