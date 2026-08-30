@@ -5,5 +5,19 @@
     "target_level": 39.9345,
     "created_time": "2026-08-29T23:27:58.305318+00:00",
     "score": 52
+  },
+  "BICO-USDT-SWAP_SHORT": {
+    "symbol": "BICO-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.023297624999999995,
+    "created_time": "2026-08-30T01:27:09.667212+00:00",
+    "score": 46
+  },
+  "GRVT-USDT-SWAP_LONG": {
+    "symbol": "GRVT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.17274374999999997,
+    "created_time": "2026-08-30T01:27:09.667212+00:00",
+    "score": 54
   }
 }
