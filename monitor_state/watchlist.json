@@ -1,16 +1,16 @@
 {
-  "POL-USDT-SWAP_SHORT": {
-    "symbol": "POL-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.08964325,
-    "created_time": "2026-08-31T13:41:41.552694+00:00",
-    "score": 32
-  },
-  "SNDK-USDT-SWAP_LONG": {
-    "symbol": "SNDK-USDT-SWAP",
+  "ARB-USDT-SWAP_LONG": {
+    "symbol": "ARB-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 1532.5385,
-    "created_time": "2026-08-31T13:41:41.552694+00:00",
-    "score": 65
+    "target_level": 0.09423999999999999,
+    "created_time": "2026-08-31T19:40:59.865235+00:00",
+    "score": 63
+  },
+  "USELESS-USDT-SWAP_SHORT": {
+    "symbol": "USELESS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.09363600000000001,
+    "created_time": "2026-08-31T19:40:59.865235+00:00",
+    "score": 70
   }
 }
