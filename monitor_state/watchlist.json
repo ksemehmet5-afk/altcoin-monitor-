@@ -1,25 +1,4 @@
 {
-  "AAOI-USDT-SWAP_LONG": {
-    "symbol": "AAOI-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 101.603,
-    "created_time": "2026-09-02T17:08:37.559416+00:00",
-    "score": 55
-  },
-  "ETHFI-USDT-SWAP_LONG": {
-    "symbol": "ETHFI-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.53404,
-    "created_time": "2026-09-02T17:08:37.559416+00:00",
-    "score": 43
-  },
-  "FIL-USDT-SWAP_LONG": {
-    "symbol": "FIL-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.7932175,
-    "created_time": "2026-09-02T17:08:37.559416+00:00",
-    "score": 55
-  },
   "APT-USDT-SWAP_LONG": {
     "symbol": "APT-USDT-SWAP",
     "direction": "LONG",
