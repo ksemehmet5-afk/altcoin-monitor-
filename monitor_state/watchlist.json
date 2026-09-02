@@ -20,18 +20,11 @@
     "created_time": "2026-09-02T17:08:37.559416+00:00",
     "score": 55
   },
-  "MUBARAK-USDT-SWAP_SHORT": {
-    "symbol": "MUBARAK-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.027226125000000004,
-    "created_time": "2026-09-02T17:08:37.559416+00:00",
-    "score": 58
-  },
-  "USELESS-USDT-SWAP_SHORT": {
-    "symbol": "USELESS-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.12003187500000001,
-    "created_time": "2026-09-02T17:08:37.559416+00:00",
-    "score": 63
+  "APT-USDT-SWAP_LONG": {
+    "symbol": "APT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.56198625,
+    "created_time": "2026-09-02T19:46:11.352978+00:00",
+    "score": 42
   }
 }
