@@ -1,16 +1,9 @@
 {
-  "CL-USDT-SWAP_SHORT": {
-    "symbol": "CL-USDT-SWAP",
+  "USELESS-USDT-SWAP_SHORT": {
+    "symbol": "USELESS-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 91.600875,
-    "created_time": "2026-09-01T19:41:33.029518+00:00",
-    "score": 54
-  },
-  "SAMSUNG-USDT-SWAP_SHORT": {
-    "symbol": "SAMSUNG-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 184.85125,
-    "created_time": "2026-09-01T19:41:33.029518+00:00",
-    "score": 62
+    "target_level": 0.11395687500000001,
+    "created_time": "2026-09-02T00:09:28.528541+00:00",
+    "score": 61
   }
 }
