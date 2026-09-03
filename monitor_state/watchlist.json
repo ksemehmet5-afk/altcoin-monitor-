@@ -1,1 +1,79 @@
-{}
+{
+  "AVGO-USDT-SWAP_LONG": {
+    "symbol": "AVGO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 343.23525,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 61
+  },
+  "CHIP-USDT-SWAP_SHORT": {
+    "symbol": "CHIP-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.0546995,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 58
+  },
+  "CP-USDT-SWAP_LONG": {
+    "symbol": "CP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.038947,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 66
+  },
+  "EDGE-USDT-SWAP_SHORT": {
+    "symbol": "EDGE-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.5650762500000001,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 74
+  },
+  "MSTR-USDT-SWAP_LONG": {
+    "symbol": "MSTR-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 130.142625,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 65
+  },
+  "MU-USDT-SWAP_LONG": {
+    "symbol": "MU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 918.059,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 63
+  },
+  "SNDK-USDT-SWAP_LONG": {
+    "symbol": "SNDK-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1501.859125,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 72
+  },
+  "SNXX-USDT-SWAP_LONG": {
+    "symbol": "SNXX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 13.232500000000002,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 71
+  },
+  "SOXL-USDT-SWAP_LONG": {
+    "symbol": "SOXL-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 100.251,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 74
+  },
+  "TSLA-USDT-SWAP_LONG": {
+    "symbol": "TSLA-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 374.29325,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 66
+  },
+  "XPL-USDT-SWAP_LONG": {
+    "symbol": "XPL-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.090247625,
+    "created_time": "2026-09-03T13:33:58.351053+00:00",
+    "score": 62
+  }
+}
