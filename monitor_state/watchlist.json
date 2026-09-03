@@ -1,16 +1,30 @@
 {
-  "CAP-USDT-SWAP_SHORT": {
-    "symbol": "CAP-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.07313287499999999,
-    "created_time": "2026-09-03T00:13:16.805535+00:00",
-    "score": 42
-  },
-  "MUBARAK-USDT-SWAP_LONG": {
-    "symbol": "MUBARAK-USDT-SWAP",
+  "EDGE-USDT-SWAP_LONG": {
+    "symbol": "EDGE-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.028452625000000002,
-    "created_time": "2026-09-03T00:13:16.805535+00:00",
-    "score": 60
+    "target_level": 0.4512875,
+    "created_time": "2026-09-03T04:33:13.322592+00:00",
+    "score": 52
+  },
+  "SNXX-USDT-SWAP_LONG": {
+    "symbol": "SNXX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 13.85075,
+    "created_time": "2026-09-03T04:33:13.322592+00:00",
+    "score": 56
+  },
+  "STX-USDT-SWAP_LONG": {
+    "symbol": "STX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.27580875,
+    "created_time": "2026-09-03T04:33:13.322592+00:00",
+    "score": 57
+  },
+  "USELESS-USDT-SWAP_SHORT": {
+    "symbol": "USELESS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.13277925,
+    "created_time": "2026-09-03T04:33:13.322592+00:00",
+    "score": 66
   }
 }
