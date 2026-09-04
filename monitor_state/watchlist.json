@@ -6,18 +6,60 @@
     "created_time": "2026-09-04T13:06:22.882133+00:00",
     "score": 79
   },
-  "EDGE-USDT-SWAP_LONG": {
-    "symbol": "EDGE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.6337625,
-    "created_time": "2026-09-04T13:06:22.882133+00:00",
-    "score": 55
-  },
-  "SAMSUNG-USDT-SWAP_SHORT": {
-    "symbol": "SAMSUNG-USDT-SWAP",
+  "BICO-USDT-SWAP_SHORT": {
+    "symbol": "BICO-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 189.203,
-    "created_time": "2026-09-04T13:06:22.882133+00:00",
-    "score": 52
+    "target_level": 0.02456325,
+    "created_time": "2026-09-04T16:50:44.589272+00:00",
+    "score": 54
+  },
+  "CRCL-USDT-SWAP_LONG": {
+    "symbol": "CRCL-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 102.34225,
+    "created_time": "2026-09-04T16:50:44.589272+00:00",
+    "score": 53
+  },
+  "DASH-USDT-SWAP_LONG": {
+    "symbol": "DASH-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 53.101000000000006,
+    "created_time": "2026-09-04T16:50:44.589272+00:00",
+    "score": 70
+  },
+  "HOOD-USDT-SWAP_LONG": {
+    "symbol": "HOOD-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 122.87462500000001,
+    "created_time": "2026-09-04T16:50:44.589272+00:00",
+    "score": 63
+  },
+  "PUMP-USDT-SWAP_LONG": {
+    "symbol": "PUMP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0043413,
+    "created_time": "2026-09-04T16:50:44.589272+00:00",
+    "score": 47
+  },
+  "SAMSUNG-USDT-SWAP_LONG": {
+    "symbol": "SAMSUNG-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 196.07125000000002,
+    "created_time": "2026-09-04T16:50:44.589272+00:00",
+    "score": 85
+  },
+  "SNDK-USDT-SWAP_SHORT": {
+    "symbol": "SNDK-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 1752.890625,
+    "created_time": "2026-09-04T16:50:44.589272+00:00",
+    "score": 54
+  },
+  "ZEC-USDT-SWAP_SHORT": {
+    "symbol": "ZEC-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 1071.187625,
+    "created_time": "2026-09-04T16:50:44.589272+00:00",
+    "score": 53
   }
 }
