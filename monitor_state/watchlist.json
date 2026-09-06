@@ -1,16 +1,37 @@
 {
-  "DASH-USDT-SWAP_LONG": {
-    "symbol": "DASH-USDT-SWAP",
+  "BONK-USDT-SWAP_LONG": {
+    "symbol": "BONK-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 76.08687499999999,
-    "created_time": "2026-09-06T05:54:21.186483+00:00",
-    "score": 70
+    "target_level": 3.3545375e-06,
+    "created_time": "2026-09-06T09:56:41.556873+00:00",
+    "score": 44
   },
-  "VIRTUAL-USDT-SWAP_LONG": {
-    "symbol": "VIRTUAL-USDT-SWAP",
+  "JUP-USDT-SWAP_LONG": {
+    "symbol": "JUP-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.68528,
-    "created_time": "2026-09-06T05:54:21.186483+00:00",
-    "score": 56
+    "target_level": 0.24845499999999998,
+    "created_time": "2026-09-06T09:56:41.556873+00:00",
+    "score": 59
+  },
+  "RAY-USDT-SWAP_SHORT": {
+    "symbol": "RAY-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 1.1517249999999999,
+    "created_time": "2026-09-06T09:56:41.556873+00:00",
+    "score": 66
+  },
+  "SUSHI-USDT-SWAP_LONG": {
+    "symbol": "SUSHI-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.2403575,
+    "created_time": "2026-09-06T09:56:41.556873+00:00",
+    "score": 52
+  },
+  "ZAMA-USDT-SWAP_LONG": {
+    "symbol": "ZAMA-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.05776875000000001,
+    "created_time": "2026-09-06T09:56:41.556873+00:00",
+    "score": 55
   }
 }
