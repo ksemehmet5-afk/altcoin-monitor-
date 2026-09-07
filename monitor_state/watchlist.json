@@ -1,9 +1,16 @@
 {
-  "DOT-USDT-SWAP_LONG": {
-    "symbol": "DOT-USDT-SWAP",
+  "AERO-USDT-SWAP_LONG": {
+    "symbol": "AERO-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 1.05527,
-    "created_time": "2026-09-07T15:15:59.215065+00:00",
-    "score": 71
+    "target_level": 0.6096824999999999,
+    "created_time": "2026-09-07T19:17:55.511560+00:00",
+    "score": 56
+  },
+  "INJ-USDT-SWAP_LONG": {
+    "symbol": "INJ-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 5.912162499999999,
+    "created_time": "2026-09-07T19:17:55.511560+00:00",
+    "score": 61
   }
 }
