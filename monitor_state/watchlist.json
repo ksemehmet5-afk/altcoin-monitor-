@@ -1,16 +1,23 @@
 {
-  "AERO-USDT-SWAP_LONG": {
-    "symbol": "AERO-USDT-SWAP",
+  "PENDLE-USDT-SWAP_LONG": {
+    "symbol": "PENDLE-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.6096824999999999,
-    "created_time": "2026-09-07T19:17:55.511560+00:00",
-    "score": 56
+    "target_level": 2.23575,
+    "created_time": "2026-09-08T00:22:00.594946+00:00",
+    "score": 36
   },
-  "INJ-USDT-SWAP_LONG": {
-    "symbol": "INJ-USDT-SWAP",
+  "SKHYNIX-USDT-SWAP_SHORT": {
+    "symbol": "SKHYNIX-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 1386.7807500000004,
+    "created_time": "2026-09-08T00:22:00.594946+00:00",
+    "score": 60
+  },
+  "SOPH-USDT-SWAP_LONG": {
+    "symbol": "SOPH-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 5.912162499999999,
-    "created_time": "2026-09-07T19:17:55.511560+00:00",
-    "score": 61
+    "target_level": 0.0058217500000000005,
+    "created_time": "2026-09-08T00:22:00.594946+00:00",
+    "score": 60
   }
 }
