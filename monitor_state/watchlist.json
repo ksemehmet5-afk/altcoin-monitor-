@@ -1,1 +1,16 @@
-{}
+{
+  "BEAT-USDT-SWAP_LONG": {
+    "symbol": "BEAT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.07663,
+    "created_time": "2026-09-11T00:11:32.140151+00:00",
+    "score": 54
+  },
+  "LAB-USDT-SWAP_LONG": {
+    "symbol": "LAB-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.047277,
+    "created_time": "2026-09-11T00:11:32.140151+00:00",
+    "score": 44
+  }
+}
