@@ -1,39 +1,4 @@
 {
-  "AVAX-USDT-SWAP_LONG": {
-    "symbol": "AVAX-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 7.461825,
-    "created_time": "2026-09-11T13:32:30.580319+00:00",
-    "score": 56
-  },
-  "ETH-USDT-SWAP_LONG": {
-    "symbol": "ETH-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 2494.22025,
-    "created_time": "2026-09-11T13:32:30.580319+00:00",
-    "score": 59
-  },
-  "MSTR-USDT-SWAP_LONG": {
-    "symbol": "MSTR-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 127.970125,
-    "created_time": "2026-09-11T13:32:30.580319+00:00",
-    "score": 53
-  },
-  "PEPE-USDT-SWAP_LONG": {
-    "symbol": "PEPE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 3.3152e-06,
-    "created_time": "2026-09-11T13:32:30.580319+00:00",
-    "score": 54
-  },
-  "PONS-USDT-SWAP_LONG": {
-    "symbol": "PONS-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.6102000000000001,
-    "created_time": "2026-09-11T13:32:30.580319+00:00",
-    "score": 64
-  },
   "LAB-USDT-SWAP_LONG": {
     "symbol": "LAB-USDT-SWAP",
     "direction": "LONG",
@@ -54,5 +19,12 @@
     "target_level": 1.2923499999999999,
     "created_time": "2026-09-11T17:13:20.691665+00:00",
     "score": 59
+  },
+  "BEAT-USDT-SWAP_LONG": {
+    "symbol": "BEAT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0898625,
+    "created_time": "2026-09-11T19:42:37.821491+00:00",
+    "score": 69
   }
 }
