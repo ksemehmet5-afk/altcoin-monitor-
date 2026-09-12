@@ -1,51 +1,23 @@
 {
-  "FARTCOIN-USDT-SWAP_LONG": {
-    "symbol": "FARTCOIN-USDT-SWAP",
+  "PONS-USDT-SWAP_LONG": {
+    "symbol": "PONS-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.1434375,
-    "created_time": "2026-09-11T23:48:11.250171+00:00",
-    "score": 30
-  },
-  "JUP-USDT-SWAP_LONG": {
-    "symbol": "JUP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.2420775,
-    "created_time": "2026-09-11T23:48:11.250171+00:00",
-    "score": 41
-  },
-  "ALLO-USDT-SWAP_LONG": {
-    "symbol": "ALLO-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.24255962499999997,
-    "created_time": "2026-09-12T02:16:37.290078+00:00",
-    "score": 57
-  },
-  "CP-USDT-SWAP_LONG": {
-    "symbol": "CP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.014259499999999998,
-    "created_time": "2026-09-12T02:16:37.290078+00:00",
-    "score": 53
-  },
-  "LAB-USDT-SWAP_LONG": {
-    "symbol": "LAB-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.080530625,
-    "created_time": "2026-09-12T02:16:37.290078+00:00",
+    "target_level": 0.6224475,
+    "created_time": "2026-09-12T07:14:59.998417+00:00",
     "score": 71
   },
-  "USELESS-USDT-SWAP_LONG": {
-    "symbol": "USELESS-USDT-SWAP",
+  "RIVER-USDT-SWAP_LONG": {
+    "symbol": "RIVER-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.22381625,
-    "created_time": "2026-09-12T02:16:37.290078+00:00",
-    "score": 51
+    "target_level": 1.378475,
+    "created_time": "2026-09-12T07:14:59.998417+00:00",
+    "score": 53
   },
-  "WLFI-USDT-SWAP_SHORT": {
-    "symbol": "WLFI-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.054806625,
-    "created_time": "2026-09-12T02:16:37.290078+00:00",
-    "score": 61
+  "STX-USDT-SWAP_LONG": {
+    "symbol": "STX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.265175,
+    "created_time": "2026-09-12T07:14:59.998417+00:00",
+    "score": 37
   }
 }
