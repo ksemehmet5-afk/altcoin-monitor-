@@ -1,18 +1,4 @@
 {
-  "CRV-USDT-SWAP_LONG": {
-    "symbol": "CRV-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.3504975,
-    "created_time": "2026-09-13T15:20:33.215828+00:00",
-    "score": 45
-  },
-  "EDGE-USDT-SWAP_LONG": {
-    "symbol": "EDGE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.617525,
-    "created_time": "2026-09-13T18:16:05.151962+00:00",
-    "score": 46
-  },
   "FIL-USDT-SWAP_LONG": {
     "symbol": "FIL-USDT-SWAP",
     "direction": "LONG",
