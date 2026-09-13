@@ -1,1 +1,16 @@
-{}
+{
+  "FLOCK-USDT-SWAP_LONG": {
+    "symbol": "FLOCK-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.07743875,
+    "created_time": "2026-09-13T06:12:11.857597+00:00",
+    "score": 60
+  },
+  "RAY-USDT-SWAP_LONG": {
+    "symbol": "RAY-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1.5559375,
+    "created_time": "2026-09-13T06:12:11.857597+00:00",
+    "score": 52
+  }
+}
