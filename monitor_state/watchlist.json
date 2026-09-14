@@ -1,1 +1,9 @@
-{}
+{
+  "KORU-USDT-SWAP_SHORT": {
+    "symbol": "KORU-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 21.130875,
+    "created_time": "2026-09-14T00:44:44.921156+00:00",
+    "score": 54
+  }
+}
