@@ -13,20 +13,6 @@
     "created_time": "2026-09-15T16:55:29.663267+00:00",
     "score": 53
   },
-  "LAB-USDT-SWAP_LONG": {
-    "symbol": "LAB-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.051765000000000005,
-    "created_time": "2026-09-15T16:55:29.663267+00:00",
-    "score": 68
-  },
-  "VVV-USDT-SWAP_LONG": {
-    "symbol": "VVV-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 22.360525,
-    "created_time": "2026-09-15T16:55:29.663267+00:00",
-    "score": 29
-  },
   "ZHIPU-USDT-SWAP_SHORT": {
     "symbol": "ZHIPU-USDT-SWAP",
     "direction": "SHORT",
