@@ -1,1 +1,16 @@
-{}
+{
+  "PONS-USDT-SWAP_LONG": {
+    "symbol": "PONS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.64967625,
+    "created_time": "2026-09-15T12:09:40.694649+00:00",
+    "score": 69
+  },
+  "RAY-USDT-SWAP_LONG": {
+    "symbol": "RAY-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1.3867875,
+    "created_time": "2026-09-15T12:09:40.694649+00:00",
+    "score": 46
+  }
+}
