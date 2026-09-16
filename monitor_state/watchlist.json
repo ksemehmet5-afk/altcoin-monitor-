@@ -5,5 +5,33 @@
     "target_level": 2.2287875,
     "created_time": "2026-09-15T22:36:30.777189+00:00",
     "score": 43
+  },
+  "CAP-USDT-SWAP_SHORT": {
+    "symbol": "CAP-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.0586035,
+    "created_time": "2026-09-16T00:47:45.094974+00:00",
+    "score": 61
+  },
+  "CP-USDT-SWAP_LONG": {
+    "symbol": "CP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.012116624999999999,
+    "created_time": "2026-09-16T00:47:45.094974+00:00",
+    "score": 55
+  },
+  "SAMSUNG-USDT-SWAP_LONG": {
+    "symbol": "SAMSUNG-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 182.82150000000001,
+    "created_time": "2026-09-16T00:47:45.094974+00:00",
+    "score": 53
+  },
+  "USELESS-USDT-SWAP_LONG": {
+    "symbol": "USELESS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.21861,
+    "created_time": "2026-09-16T00:47:45.094974+00:00",
+    "score": 51
   }
 }
