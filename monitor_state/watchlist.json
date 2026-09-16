@@ -1,9 +1,37 @@
 {
-  "ENA-USDT-SWAP_LONG": {
-    "symbol": "ENA-USDT-SWAP",
+  "CRCL-USDT-SWAP_LONG": {
+    "symbol": "CRCL-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.14325375,
-    "created_time": "2026-09-16T10:16:37.976869+00:00",
-    "score": 52
+    "target_level": 80.73875000000001,
+    "created_time": "2026-09-16T15:05:13.514020+00:00",
+    "score": 74
+  },
+  "DELL-USDT-SWAP_SHORT": {
+    "symbol": "DELL-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 576.25425,
+    "created_time": "2026-09-16T15:05:13.514020+00:00",
+    "score": 57
+  },
+  "ONDO-USDT-SWAP_SHORT": {
+    "symbol": "ONDO-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.3340475,
+    "created_time": "2026-09-16T15:05:13.514020+00:00",
+    "score": 43
+  },
+  "SNDK-USDT-SWAP_LONG": {
+    "symbol": "SNDK-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1538.73575,
+    "created_time": "2026-09-16T15:05:13.514020+00:00",
+    "score": 62
+  },
+  "ZEC-USDT-SWAP_SHORT": {
+    "symbol": "ZEC-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 1252.175,
+    "created_time": "2026-09-16T15:05:13.514020+00:00",
+    "score": 58
   }
 }
