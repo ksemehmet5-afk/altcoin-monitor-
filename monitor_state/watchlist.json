@@ -6,11 +6,11 @@
     "created_time": "2026-09-17T18:23:13.799797+00:00",
     "score": 56
   },
-  "NEAR-USDT-SWAP_LONG": {
-    "symbol": "NEAR-USDT-SWAP",
+  "PIEVERSE-USDT-SWAP_LONG": {
+    "symbol": "PIEVERSE-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 3.0276750000000003,
-    "created_time": "2026-09-17T18:23:13.799797+00:00",
-    "score": 61
+    "target_level": 1.2359550000000001,
+    "created_time": "2026-09-17T21:33:15.622065+00:00",
+    "score": 38
   }
 }
