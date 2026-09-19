@@ -1,23 +1,51 @@
 {
-  "AKE-USDT-SWAP_SHORT": {
-    "symbol": "AKE-USDT-SWAP",
+  "APT-USDT-SWAP_LONG": {
+    "symbol": "APT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.7280837499999999,
+    "created_time": "2026-09-19T10:53:11.111989+00:00",
+    "score": 58
+  },
+  "HBAR-USDT-SWAP_LONG": {
+    "symbol": "HBAR-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.07932225,
+    "created_time": "2026-09-19T10:53:11.111989+00:00",
+    "score": 49
+  },
+  "ONE-USDT-SWAP_SHORT": {
+    "symbol": "ONE-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.056882249999999995,
-    "created_time": "2026-09-19T06:08:09.389047+00:00",
-    "score": 77
+    "target_level": 0.0024506975,
+    "created_time": "2026-09-19T10:53:11.111989+00:00",
+    "score": 93
   },
-  "AR-USDT-SWAP_LONG": {
-    "symbol": "AR-USDT-SWAP",
+  "STRK-USDT-SWAP_LONG": {
+    "symbol": "STRK-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 4.061100000000001,
-    "created_time": "2026-09-19T06:08:09.389047+00:00",
-    "score": 71
+    "target_level": 0.04407675,
+    "created_time": "2026-09-19T10:53:11.111989+00:00",
+    "score": 53
   },
-  "INJ-USDT-SWAP_LONG": {
-    "symbol": "INJ-USDT-SWAP",
+  "SUI-USDT-SWAP_LONG": {
+    "symbol": "SUI-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 6.94015,
-    "created_time": "2026-09-19T06:08:09.389047+00:00",
+    "target_level": 0.8433249999999999,
+    "created_time": "2026-09-19T10:53:11.111989+00:00",
     "score": 56
+  },
+  "TAO-USDT-SWAP_LONG": {
+    "symbol": "TAO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 264.74875000000003,
+    "created_time": "2026-09-19T10:53:11.111989+00:00",
+    "score": 68
+  },
+  "ZAMA-USDT-SWAP_LONG": {
+    "symbol": "ZAMA-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.07872349999999999,
+    "created_time": "2026-09-19T10:53:11.111989+00:00",
+    "score": 70
   }
 }
