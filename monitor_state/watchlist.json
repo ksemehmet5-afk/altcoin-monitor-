@@ -33,5 +33,47 @@
     "target_level": 19.651249999999997,
     "created_time": "2026-09-22T15:04:29.663681+00:00",
     "score": 35
+  },
+  "BCH-USDT-SWAP_LONG": {
+    "symbol": "BCH-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 334.66375,
+    "created_time": "2026-09-22T18:50:54.243531+00:00",
+    "score": 68
+  },
+  "DASH-USDT-SWAP_LONG": {
+    "symbol": "DASH-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 62.30137500000001,
+    "created_time": "2026-09-22T18:50:54.243531+00:00",
+    "score": 70
+  },
+  "PENGU-USDT-SWAP_LONG": {
+    "symbol": "PENGU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.009475062499999999,
+    "created_time": "2026-09-22T18:50:54.243531+00:00",
+    "score": 52
+  },
+  "TQQQ-USDT-SWAP_SHORT": {
+    "symbol": "TQQQ-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 81.324,
+    "created_time": "2026-09-22T18:50:54.243531+00:00",
+    "score": 39
+  },
+  "USELESS-USDT-SWAP_LONG": {
+    "symbol": "USELESS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.320029,
+    "created_time": "2026-09-22T18:50:54.243531+00:00",
+    "score": 56
+  },
+  "ZEN-USDT-SWAP_LONG": {
+    "symbol": "ZEN-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 7.821,
+    "created_time": "2026-09-22T18:50:54.243531+00:00",
+    "score": 40
   }
 }
