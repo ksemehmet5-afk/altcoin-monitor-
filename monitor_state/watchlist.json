@@ -1,30 +1,16 @@
 {
-  "MET-USDT-SWAP_SHORT": {
-    "symbol": "MET-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.366745,
-    "created_time": "2026-09-23T07:57:30.316975+00:00",
-    "score": 52
-  },
-  "MINIMAX-USDT-SWAP_LONG": {
-    "symbol": "MINIMAX-USDT-SWAP",
+  "ALLO-USDT-SWAP_LONG": {
+    "symbol": "ALLO-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 34.93825,
-    "created_time": "2026-09-23T07:57:30.316975+00:00",
-    "score": 52
+    "target_level": 0.34363025,
+    "created_time": "2026-09-23T13:20:46.381222+00:00",
+    "score": 60
   },
-  "ONE-USDT-SWAP_SHORT": {
-    "symbol": "ONE-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.00491659875,
-    "created_time": "2026-09-23T07:57:30.316975+00:00",
-    "score": 78
-  },
-  "ZHIPU-USDT-SWAP_LONG": {
-    "symbol": "ZHIPU-USDT-SWAP",
+  "AMZN-USDT-SWAP_LONG": {
+    "symbol": "AMZN-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 82.564875,
-    "created_time": "2026-09-23T07:57:30.316975+00:00",
-    "score": 76
+    "target_level": 254.72750000000002,
+    "created_time": "2026-09-23T13:20:46.381222+00:00",
+    "score": 41
   }
 }
