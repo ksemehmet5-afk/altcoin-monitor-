@@ -1,16 +1,23 @@
 {
-  "RAY-USDT-SWAP_LONG": {
-    "symbol": "RAY-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 2.039825,
-    "created_time": "2026-09-23T17:53:11.250631+00:00",
-    "score": 70
-  },
   "GRASS-USDT-SWAP_LONG": {
     "symbol": "GRASS-USDT-SWAP",
     "direction": "LONG",
     "target_level": 0.4510425,
     "created_time": "2026-09-23T20:52:50.866526+00:00",
     "score": 45
+  },
+  "JUP-USDT-SWAP_LONG": {
+    "symbol": "JUP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.28756000000000004,
+    "created_time": "2026-09-23T23:21:13.046484+00:00",
+    "score": 39
+  },
+  "PYTH-USDT-SWAP_LONG": {
+    "symbol": "PYTH-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.06230625,
+    "created_time": "2026-09-23T23:21:13.046484+00:00",
+    "score": 41
   }
 }
