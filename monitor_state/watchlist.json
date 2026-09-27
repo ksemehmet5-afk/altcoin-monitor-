@@ -1,16 +1,9 @@
 {
-  "GRAM-USDT-SWAP_LONG": {
-    "symbol": "GRAM-USDT-SWAP",
+  "AKE-USDT-SWAP_LONG": {
+    "symbol": "AKE-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 1.5685,
-    "created_time": "2026-09-26T18:52:17.527108+00:00",
-    "score": 55
-  },
-  "ZEC-USDT-SWAP_LONG": {
-    "symbol": "ZEC-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 1673.125,
-    "created_time": "2026-09-26T21:43:30.475785+00:00",
-    "score": 61
+    "target_level": 0.03284475,
+    "created_time": "2026-09-26T23:55:05.282085+00:00",
+    "score": 52
   }
 }
