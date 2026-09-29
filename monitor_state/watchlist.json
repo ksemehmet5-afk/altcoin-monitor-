@@ -1,1 +1,23 @@
-{}
+{
+  "NMR-USDT-SWAP_SHORT": {
+    "symbol": "NMR-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 14.164825,
+    "created_time": "2026-09-29T02:34:34.538936+00:00",
+    "score": 78
+  },
+  "SOXS-USDT-SWAP_LONG": {
+    "symbol": "SOXS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 34.79875,
+    "created_time": "2026-09-29T02:34:34.538936+00:00",
+    "score": 67
+  },
+  "UNITREE-USDT-SWAP_SHORT": {
+    "symbol": "UNITREE-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 67.884,
+    "created_time": "2026-09-29T02:34:34.538936+00:00",
+    "score": 62
+  }
+}
