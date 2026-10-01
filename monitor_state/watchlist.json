@@ -1,58 +1,9 @@
 {
-  "BZ-USDT-SWAP_SHORT": {
-    "symbol": "BZ-USDT-SWAP",
+  "AAVE-USDT-SWAP_SHORT": {
+    "symbol": "AAVE-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 103.61925,
-    "created_time": "2026-10-01T18:57:04.615218+00:00",
-    "score": 51
-  },
-  "CAP-USDT-SWAP_LONG": {
-    "symbol": "CAP-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.086179125,
-    "created_time": "2026-10-01T18:57:04.615218+00:00",
-    "score": 42
-  },
-  "CBRS-USDT-SWAP_LONG": {
-    "symbol": "CBRS-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 169.534,
-    "created_time": "2026-10-01T18:57:04.615218+00:00",
-    "score": 61
-  },
-  "MON-USDT-SWAP_SHORT": {
-    "symbol": "MON-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.03532612499999999,
-    "created_time": "2026-10-01T18:57:04.615218+00:00",
-    "score": 60
-  },
-  "SAMSUNG-USDT-SWAP_LONG": {
-    "symbol": "SAMSUNG-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 199.991,
-    "created_time": "2026-10-01T18:57:04.615218+00:00",
-    "score": 71
-  },
-  "SKHYNIX-USDT-SWAP_LONG": {
-    "symbol": "SKHYNIX-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 1346.7425,
-    "created_time": "2026-10-01T18:57:04.615218+00:00",
-    "score": 82
-  },
-  "WIF-USDT-SWAP_LONG": {
-    "symbol": "WIF-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.2494375,
-    "created_time": "2026-10-01T18:57:04.615218+00:00",
-    "score": 45
-  },
-  "ZRO-USDT-SWAP_SHORT": {
-    "symbol": "ZRO-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 1.8164249999999997,
-    "created_time": "2026-10-01T18:57:04.615218+00:00",
-    "score": 49
+    "target_level": 174.14999999999998,
+    "created_time": "2026-10-01T22:58:46.762318+00:00",
+    "score": 44
   }
 }
