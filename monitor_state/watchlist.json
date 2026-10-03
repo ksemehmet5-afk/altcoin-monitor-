@@ -26,12 +26,5 @@
     "target_level": 0.005781625,
     "created_time": "2026-10-03T17:28:05.253099+00:00",
     "score": 60
-  },
-  "STRK-USDT-SWAP_LONG": {
-    "symbol": "STRK-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.0519565,
-    "created_time": "2026-10-03T17:28:05.253099+00:00",
-    "score": 70
   }
 }
