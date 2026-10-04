@@ -1,16 +1,1 @@
-{
-  "VIRTUAL-USDT-SWAP_LONG": {
-    "symbol": "VIRTUAL-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.8024175,
-    "created_time": "2026-10-04T14:21:32.791868+00:00",
-    "score": 44
-  },
-  "STX-USDT-SWAP_LONG": {
-    "symbol": "STX-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.3945875,
-    "created_time": "2026-10-04T18:14:29.485721+00:00",
-    "score": 47
-  }
-}
+{}
