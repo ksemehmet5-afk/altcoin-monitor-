@@ -1,1 +1,23 @@
-{}
+{
+  "AXS-USDT-SWAP_SHORT": {
+    "symbol": "AXS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 1.2572525,
+    "created_time": "2026-10-04T02:26:29.302484+00:00",
+    "score": 65
+  },
+  "MUBARAK-USDT-SWAP_LONG": {
+    "symbol": "MUBARAK-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.063837275,
+    "created_time": "2026-10-04T02:26:29.302484+00:00",
+    "score": 49
+  },
+  "QUANT-USDT-SWAP_SHORT": {
+    "symbol": "QUANT-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 272.435,
+    "created_time": "2026-10-04T02:26:29.302484+00:00",
+    "score": 72
+  }
+}
