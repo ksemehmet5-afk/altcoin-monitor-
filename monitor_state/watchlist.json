@@ -1,1 +1,16 @@
-{}
+{
+  "ADA-USDT-SWAP_LONG": {
+    "symbol": "ADA-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.248085,
+    "created_time": "2026-10-05T00:03:21.863042+00:00",
+    "score": 71
+  },
+  "VVV-USDT-SWAP_LONG": {
+    "symbol": "VVV-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 28.5105,
+    "created_time": "2026-10-05T00:03:21.863042+00:00",
+    "score": 39
+  }
+}
