@@ -1,9 +1,16 @@
 {
-  "OKB-USDT-SWAP_LONG": {
-    "symbol": "OKB-USDT-SWAP",
+  "FIL-USDT-SWAP_LONG": {
+    "symbol": "FIL-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 128.42475,
-    "created_time": "2026-10-06T01:29:39.893003+00:00",
-    "score": 55
+    "target_level": 1.1888375,
+    "created_time": "2026-10-06T07:57:36.472595+00:00",
+    "score": 62
+  },
+  "MINA-USDT-SWAP_SHORT": {
+    "symbol": "MINA-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.135158,
+    "created_time": "2026-10-06T07:57:36.472595+00:00",
+    "score": 52
   }
 }
