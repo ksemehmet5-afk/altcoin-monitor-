@@ -1,30 +1,51 @@
 {
-  "BZ-USDT-SWAP_SHORT": {
-    "symbol": "BZ-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 104.34825000000001,
-    "created_time": "2026-10-08T07:22:40.454175+00:00",
-    "score": 77
-  },
-  "KORU-USDT-SWAP_LONG": {
-    "symbol": "KORU-USDT-SWAP",
+  "AKE-USDT-SWAP_LONG": {
+    "symbol": "AKE-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 18.847749999999998,
-    "created_time": "2026-10-08T07:22:40.454175+00:00",
-    "score": 72
+    "target_level": 0.03069575,
+    "created_time": "2026-10-08T14:44:14.417824+00:00",
+    "score": 55
   },
-  "MINIMAX-USDT-SWAP_LONG": {
-    "symbol": "MINIMAX-USDT-SWAP",
+  "LIT-USDT-SWAP_LONG": {
+    "symbol": "LIT-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 26.267500000000005,
-    "created_time": "2026-10-08T07:22:40.454175+00:00",
-    "score": 71
+    "target_level": 3.6852512500000003,
+    "created_time": "2026-10-08T14:44:14.417824+00:00",
+    "score": 43
   },
-  "SNXX-USDT-SWAP_SHORT": {
-    "symbol": "SNXX-USDT-SWAP",
+  "ONDO-USDT-SWAP_LONG": {
+    "symbol": "ONDO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.48683750000000003,
+    "created_time": "2026-10-08T14:44:14.417824+00:00",
+    "score": 65
+  },
+  "PYTH-USDT-SWAP_LONG": {
+    "symbol": "PYTH-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.07785825,
+    "created_time": "2026-10-08T14:44:14.417824+00:00",
+    "score": 56
+  },
+  "STRK-USDT-SWAP_SHORT": {
+    "symbol": "STRK-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 15.7545,
-    "created_time": "2026-10-08T07:22:40.454175+00:00",
-    "score": 48
+    "target_level": 0.061351249999999996,
+    "created_time": "2026-10-08T14:44:14.417824+00:00",
+    "score": 73
+  },
+  "USELESS-USDT-SWAP_LONG": {
+    "symbol": "USELESS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.19705725000000002,
+    "created_time": "2026-10-08T14:44:14.417824+00:00",
+    "score": 38
+  },
+  "VVV-USDT-SWAP_LONG": {
+    "symbol": "VVV-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 22.475875,
+    "created_time": "2026-10-08T14:44:14.417824+00:00",
+    "score": 45
   }
 }
