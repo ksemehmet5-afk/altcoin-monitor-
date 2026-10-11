@@ -1,23 +1,23 @@
 {
-  "ATOM-USDT-SWAP_LONG": {
-    "symbol": "ATOM-USDT-SWAP",
+  "ETHFI-USDT-SWAP_LONG": {
+    "symbol": "ETHFI-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 1.9977125000000004,
-    "created_time": "2026-10-11T13:59:20.825178+00:00",
-    "score": 59
+    "target_level": 0.7396375,
+    "created_time": "2026-10-11T18:41:12.034200+00:00",
+    "score": 39
   },
-  "CFX-USDT-SWAP_SHORT": {
-    "symbol": "CFX-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.068737,
-    "created_time": "2026-10-11T13:59:20.825178+00:00",
+  "INJ-USDT-SWAP_LONG": {
+    "symbol": "INJ-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 7.801250000000001,
+    "created_time": "2026-10-11T18:41:12.034200+00:00",
     "score": 57
   },
-  "GRASS-USDT-SWAP_LONG": {
-    "symbol": "GRASS-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.7311449999999999,
-    "created_time": "2026-10-11T13:59:20.825178+00:00",
-    "score": 54
+  "S-USDT-SWAP_SHORT": {
+    "symbol": "S-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.067442625,
+    "created_time": "2026-10-11T18:41:12.034200+00:00",
+    "score": 62
   }
 }
