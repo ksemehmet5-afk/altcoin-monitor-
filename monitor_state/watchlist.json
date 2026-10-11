@@ -1,9 +1,30 @@
 {
-  "CHIP-USDT-SWAP_LONG": {
+  "CHIP-USDT-SWAP_SHORT": {
     "symbol": "CHIP-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.06809625,
+    "created_time": "2026-10-11T01:08:28.600068+00:00",
+    "score": 71
+  },
+  "INJ-USDT-SWAP_LONG": {
+    "symbol": "INJ-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.06329575000000001,
-    "created_time": "2026-10-10T19:03:49.061181+00:00",
-    "score": 70
+    "target_level": 7.679425,
+    "created_time": "2026-10-11T01:08:28.600068+00:00",
+    "score": 44
+  },
+  "MINA-USDT-SWAP_SHORT": {
+    "symbol": "MINA-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.0876335,
+    "created_time": "2026-10-11T01:08:28.600068+00:00",
+    "score": 78
+  },
+  "STRK-USDT-SWAP_LONG": {
+    "symbol": "STRK-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.10162225,
+    "created_time": "2026-10-11T01:08:28.600068+00:00",
+    "score": 45
   }
 }
