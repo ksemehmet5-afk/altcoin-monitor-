@@ -1,16 +1,16 @@
 {
-  "ETHFI-USDT-SWAP_LONG": {
-    "symbol": "ETHFI-USDT-SWAP",
+  "GRASS-USDT-SWAP_LONG": {
+    "symbol": "GRASS-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.7396375,
-    "created_time": "2026-10-11T18:41:12.034200+00:00",
-    "score": 39
+    "target_level": 0.8653625,
+    "created_time": "2026-10-12T01:32:23.491935+00:00",
+    "score": 70
   },
-  "S-USDT-SWAP_SHORT": {
-    "symbol": "S-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.067442625,
-    "created_time": "2026-10-11T18:41:12.034200+00:00",
-    "score": 62
+  "KORU-USDT-SWAP_LONG": {
+    "symbol": "KORU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 17.493,
+    "created_time": "2026-10-12T01:32:23.491935+00:00",
+    "score": 42
   }
 }
