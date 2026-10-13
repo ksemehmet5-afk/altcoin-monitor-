@@ -1,1 +1,16 @@
-{}
+{
+  "APT-USDT-SWAP_SHORT": {
+    "symbol": "APT-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.8467537500000001,
+    "created_time": "2026-10-13T18:24:10.595604+00:00",
+    "score": 43
+  },
+  "INJ-USDT-SWAP_LONG": {
+    "symbol": "INJ-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 8.125174999999999,
+    "created_time": "2026-10-13T18:24:10.595604+00:00",
+    "score": 65
+  }
+}
