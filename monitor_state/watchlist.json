@@ -1,1 +1,37 @@
-{}
+{
+  "CXMT-USDT-SWAP_LONG": {
+    "symbol": "CXMT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 7.103675,
+    "created_time": "2026-10-14T01:36:04.500914+00:00",
+    "score": 60
+  },
+  "OP-USDT-SWAP_SHORT": {
+    "symbol": "OP-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.15678975,
+    "created_time": "2026-10-14T01:36:04.500914+00:00",
+    "score": 61
+  },
+  "PONS-USDT-SWAP_LONG": {
+    "symbol": "PONS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.31224749999999996,
+    "created_time": "2026-10-14T01:36:04.500914+00:00",
+    "score": 64
+  },
+  "PYTH-USDT-SWAP_SHORT": {
+    "symbol": "PYTH-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.07919575,
+    "created_time": "2026-10-14T01:36:04.500914+00:00",
+    "score": 38
+  },
+  "SKHYNIX-USDT-SWAP_LONG": {
+    "symbol": "SKHYNIX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1095.345,
+    "created_time": "2026-10-14T01:36:04.500914+00:00",
+    "score": 73
+  }
+}
