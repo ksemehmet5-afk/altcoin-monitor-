@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-15T12:20:46.281756+00:00",
-  "total_signals": 1163,
-  "pending": 2,
-  "resolved": 1161,
-  "wins": 403,
+  "last_updated": "2026-10-15T17:07:11.694034+00:00",
+  "total_signals": 1164,
+  "pending": 1,
+  "resolved": 1163,
+  "wins": 405,
   "losses": 677,
   "flats": 81,
-  "win_rate_pct": 37.31,
-  "avg_win_pct": 4.904,
+  "win_rate_pct": 37.43,
+  "avg_win_pct": 4.896,
   "avg_loss_pct": -2.926,
-  "expectancy_pct_per_trade": -0.003
+  "expectancy_pct_per_trade": 0.002
 }
