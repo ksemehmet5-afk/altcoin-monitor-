@@ -1,16 +1,9 @@
 {
-  "BASED-USDT-SWAP_LONG": {
-    "symbol": "BASED-USDT-SWAP",
+  "AKE-USDT-SWAP_LONG": {
+    "symbol": "AKE-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.05118212500000001,
-    "created_time": "2026-10-17T18:03:17.673530+00:00",
-    "score": 54
-  },
-  "BAT-USDT-SWAP_SHORT": {
-    "symbol": "BAT-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.18587275,
-    "created_time": "2026-10-17T18:03:17.673530+00:00",
-    "score": 73
+    "target_level": 0.02999025,
+    "created_time": "2026-10-17T22:39:00.082176+00:00",
+    "score": 70
   }
 }
