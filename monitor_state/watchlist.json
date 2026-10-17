@@ -1,9 +1,9 @@
 {
-  "SAND-USDT-SWAP_SHORT": {
-    "symbol": "SAND-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.05723275,
-    "created_time": "2026-10-17T08:41:37.243812+00:00",
-    "score": 61
+  "MAGIC-USDT-SWAP_LONG": {
+    "symbol": "MAGIC-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.11095025,
+    "created_time": "2026-10-17T12:24:21.927338+00:00",
+    "score": 44
   }
 }
