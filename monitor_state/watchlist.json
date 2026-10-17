@@ -1,9 +1,16 @@
 {
-  "CAP-USDT-SWAP_LONG": {
-    "symbol": "CAP-USDT-SWAP",
+  "BASED-USDT-SWAP_LONG": {
+    "symbol": "BASED-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.074023,
-    "created_time": "2026-10-17T15:46:21.299580+00:00",
-    "score": 27
+    "target_level": 0.05118212500000001,
+    "created_time": "2026-10-17T18:03:17.673530+00:00",
+    "score": 54
+  },
+  "BAT-USDT-SWAP_SHORT": {
+    "symbol": "BAT-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.18587275,
+    "created_time": "2026-10-17T18:03:17.673530+00:00",
+    "score": 73
   }
 }
