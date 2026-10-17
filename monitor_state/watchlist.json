@@ -1,16 +1,9 @@
 {
-  "EIGEN-USDT-SWAP_SHORT": {
-    "symbol": "EIGEN-USDT-SWAP",
+  "SAND-USDT-SWAP_SHORT": {
+    "symbol": "SAND-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.27844749999999996,
-    "created_time": "2026-10-17T04:19:28.418523+00:00",
-    "score": 58
-  },
-  "WLD-USDT-SWAP_LONG": {
-    "symbol": "WLD-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.529195,
-    "created_time": "2026-10-17T04:19:28.418523+00:00",
-    "score": 54
+    "target_level": 0.05723275,
+    "created_time": "2026-10-17T08:41:37.243812+00:00",
+    "score": 61
   }
 }
