@@ -1,9 +1,9 @@
 {
-  "HBAR-USDT-SWAP_SHORT": {
-    "symbol": "HBAR-USDT-SWAP",
+  "S-USDT-SWAP_SHORT": {
+    "symbol": "S-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.089667,
-    "created_time": "2026-10-18T09:14:37.913853+00:00",
-    "score": 61
+    "target_level": 0.05528475,
+    "created_time": "2026-10-18T13:19:06.119862+00:00",
+    "score": 41
   }
 }
