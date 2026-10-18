@@ -1,9 +1,16 @@
 {
-  "AKE-USDT-SWAP_LONG": {
-    "symbol": "AKE-USDT-SWAP",
+  "ENA-USDT-SWAP_LONG": {
+    "symbol": "ENA-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.02999025,
-    "created_time": "2026-10-17T22:39:00.082176+00:00",
-    "score": 70
+    "target_level": 0.18747625,
+    "created_time": "2026-10-18T04:51:02.923454+00:00",
+    "score": 64
+  },
+  "XPL-USDT-SWAP_LONG": {
+    "symbol": "XPL-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.077813,
+    "created_time": "2026-10-18T04:51:02.923454+00:00",
+    "score": 45
   }
 }
