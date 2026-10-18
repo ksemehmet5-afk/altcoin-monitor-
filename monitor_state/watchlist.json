@@ -1,11 +1,4 @@
 {
-  "S-USDT-SWAP_SHORT": {
-    "symbol": "S-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.05528475,
-    "created_time": "2026-10-18T13:19:06.119862+00:00",
-    "score": 41
-  },
   "PYTH-USDT-SWAP_LONG": {
     "symbol": "PYTH-USDT-SWAP",
     "direction": "LONG",
