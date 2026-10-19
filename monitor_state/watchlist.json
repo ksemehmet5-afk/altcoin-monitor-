@@ -1,16 +1,30 @@
 {
-  "PENGU-USDT-SWAP_LONG": {
-    "symbol": "PENGU-USDT-SWAP",
+  "AERO-USDT-SWAP_LONG": {
+    "symbol": "AERO-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.0076244749999999995,
-    "created_time": "2026-10-19T13:08:12.480293+00:00",
-    "score": 63
+    "target_level": 0.7756274999999999,
+    "created_time": "2026-10-19T19:17:53.961388+00:00",
+    "score": 42
   },
-  "SAND-USDT-SWAP_SHORT": {
-    "symbol": "SAND-USDT-SWAP",
+  "FARTCOIN-USDT-SWAP_LONG": {
+    "symbol": "FARTCOIN-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.13894125,
+    "created_time": "2026-10-19T19:17:53.961388+00:00",
+    "score": 51
+  },
+  "S-USDT-SWAP_SHORT": {
+    "symbol": "S-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.06008625,
-    "created_time": "2026-10-19T13:08:12.480293+00:00",
-    "score": 55
+    "target_level": 0.058471875000000006,
+    "created_time": "2026-10-19T19:17:53.961388+00:00",
+    "score": 30
+  },
+  "VVV-USDT-SWAP_SHORT": {
+    "symbol": "VVV-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 24.57375,
+    "created_time": "2026-10-19T19:17:53.961388+00:00",
+    "score": 58
   }
 }
