@@ -1,1 +1,30 @@
-{}
+{
+  "AERO-USDT-SWAP_LONG": {
+    "symbol": "AERO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.81523,
+    "created_time": "2026-10-22T02:34:55.797595+00:00",
+    "score": 38
+  },
+  "IRYS-USDT-SWAP_SHORT": {
+    "symbol": "IRYS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.022386375,
+    "created_time": "2026-10-22T02:34:55.797595+00:00",
+    "score": 71
+  },
+  "ZHIPU-USDT-SWAP_LONG": {
+    "symbol": "ZHIPU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 58.114375,
+    "created_time": "2026-10-22T02:34:55.797595+00:00",
+    "score": 67
+  },
+  "ZHONGJI-USDT-SWAP_LONG": {
+    "symbol": "ZHONGJI-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 92.26,
+    "created_time": "2026-10-22T02:34:55.797595+00:00",
+    "score": 68
+  }
+}
