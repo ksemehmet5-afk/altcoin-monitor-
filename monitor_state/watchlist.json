@@ -1,9 +1,23 @@
 {
-  "AAPL-USDT-SWAP_SHORT": {
-    "symbol": "AAPL-USDT-SWAP",
+  "DASH-USDT-SWAP_SHORT": {
+    "symbol": "DASH-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 350.355375,
-    "created_time": "2026-10-22T18:04:53.212493+00:00",
-    "score": 44
+    "target_level": 53.449875000000006,
+    "created_time": "2026-10-23T00:09:16.651560+00:00",
+    "score": 40
+  },
+  "EWY-USDT-SWAP_LONG": {
+    "symbol": "EWY-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 145.89325000000002,
+    "created_time": "2026-10-23T00:09:16.651560+00:00",
+    "score": 50
+  },
+  "SAMSUNG-USDT-SWAP_SHORT": {
+    "symbol": "SAMSUNG-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 157.43599999999998,
+    "created_time": "2026-10-23T00:09:16.651560+00:00",
+    "score": 51
   }
 }
