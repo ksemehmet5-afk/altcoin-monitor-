@@ -1,1 +1,16 @@
-{}
+{
+  "AERO-USDT-SWAP_LONG": {
+    "symbol": "AERO-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.6965825000000001,
+    "created_time": "2026-10-24T12:55:19.292840+00:00",
+    "score": 47
+  },
+  "TIA-USDT-SWAP_SHORT": {
+    "symbol": "TIA-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.55839375,
+    "created_time": "2026-10-24T12:55:19.292840+00:00",
+    "score": 38
+  }
+}
