@@ -1,16 +1,1 @@
-{
-  "STX-USDT-SWAP_SHORT": {
-    "symbol": "STX-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.3259225,
-    "created_time": "2026-10-23T18:33:56.207759+00:00",
-    "score": 39
-  },
-  "FARTCOIN-USDT-SWAP_LONG": {
-    "symbol": "FARTCOIN-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.13676875,
-    "created_time": "2026-10-23T21:40:08.311432+00:00",
-    "score": 41
-  }
-}
+{}
