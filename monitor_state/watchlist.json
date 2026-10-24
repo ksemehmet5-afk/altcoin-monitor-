@@ -1,16 +1,16 @@
 {
-  "MAGIC-USDT-SWAP_LONG": {
-    "symbol": "MAGIC-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.086617,
-    "created_time": "2026-10-24T18:54:25.831489+00:00",
-    "score": 39
-  },
   "USELESS-USDT-SWAP_LONG": {
     "symbol": "USELESS-USDT-SWAP",
     "direction": "LONG",
     "target_level": 0.15645949999999997,
     "created_time": "2026-10-24T18:54:25.831489+00:00",
     "score": 32
+  },
+  "IRYS-USDT-SWAP_SHORT": {
+    "symbol": "IRYS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.045370125,
+    "created_time": "2026-10-24T21:20:01.998506+00:00",
+    "score": 67
   }
 }
