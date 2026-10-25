@@ -1,1 +1,9 @@
-{}
+{
+  "IRYS-USDT-SWAP_SHORT": {
+    "symbol": "IRYS-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.03825225,
+    "created_time": "2026-10-25T23:16:14.966173+00:00",
+    "score": 71
+  }
+}
