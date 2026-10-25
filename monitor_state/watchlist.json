@@ -1,1 +1,9 @@
-{}
+{
+  "CAP-USDT-SWAP_LONG": {
+    "symbol": "CAP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.106561125,
+    "created_time": "2026-10-25T15:17:59.536191+00:00",
+    "score": 60
+  }
+}
