@@ -1,9 +1,30 @@
 {
-  "DOOD-USDT-SWAP_SHORT": {
-    "symbol": "DOOD-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.0019450125,
-    "created_time": "2026-10-26T06:36:45.645588+00:00",
-    "score": 82
+  "CAP-USDT-SWAP_LONG": {
+    "symbol": "CAP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0893095,
+    "created_time": "2026-10-26T13:32:45.852625+00:00",
+    "score": 60
+  },
+  "SNDK-USDT-SWAP_LONG": {
+    "symbol": "SNDK-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1273.925,
+    "created_time": "2026-10-26T13:32:45.852625+00:00",
+    "score": 52
+  },
+  "SNXX-USDT-SWAP_LONG": {
+    "symbol": "SNXX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 8.513237499999999,
+    "created_time": "2026-10-26T13:32:45.852625+00:00",
+    "score": 72
+  },
+  "SPCX-USDT-SWAP_LONG": {
+    "symbol": "SPCX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 147.17275,
+    "created_time": "2026-10-26T13:32:45.852625+00:00",
+    "score": 73
   }
 }
