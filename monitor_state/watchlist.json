@@ -1,9 +1,9 @@
 {
-  "CAP-USDT-SWAP_LONG": {
-    "symbol": "CAP-USDT-SWAP",
+  "GRASS-USDT-SWAP_LONG": {
+    "symbol": "GRASS-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.07009275000000001,
-    "created_time": "2026-11-01T18:42:04.228536+00:00",
-    "score": 63
+    "target_level": 0.594155,
+    "created_time": "2026-11-01T22:26:06.051662+00:00",
+    "score": 36
   }
 }
