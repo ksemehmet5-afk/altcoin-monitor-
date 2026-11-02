@@ -1,16 +1,9 @@
 {
-  "AKE-USDT-SWAP_LONG": {
-    "symbol": "AKE-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.006013875,
-    "created_time": "2026-11-02T08:18:02.791524+00:00",
-    "score": 51
-  },
-  "SNXX-USDT-SWAP_LONG": {
-    "symbol": "SNXX-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 7.1485,
-    "created_time": "2026-11-02T08:18:02.791524+00:00",
-    "score": 78
+  "SAMSUNG-USDT-SWAP_SHORT": {
+    "symbol": "SAMSUNG-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 165.93625,
+    "created_time": "2026-11-02T18:37:51.704871+00:00",
+    "score": 64
   }
 }
