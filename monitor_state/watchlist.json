@@ -1,9 +1,16 @@
 {
-  "SAMSUNG-USDT-SWAP_SHORT": {
-    "symbol": "SAMSUNG-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 165.93625,
-    "created_time": "2026-11-02T18:37:51.704871+00:00",
-    "score": 64
+  "CAP-USDT-SWAP_LONG": {
+    "symbol": "CAP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.07316387500000002,
+    "created_time": "2026-11-03T01:16:17.149350+00:00",
+    "score": 56
+  },
+  "KORU-USDT-SWAP_LONG": {
+    "symbol": "KORU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 10.92175,
+    "created_time": "2026-11-03T01:16:17.149350+00:00",
+    "score": 75
   }
 }
