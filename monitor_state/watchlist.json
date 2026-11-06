@@ -1,1 +1,44 @@
-{}
+{
+  "AKE-USDT-SWAP_SHORT": {
+    "symbol": "AKE-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.00240995,
+    "created_time": "2026-11-06T02:49:13.669381+00:00",
+    "score": 69
+  },
+  "CXMT-USDT-SWAP_LONG": {
+    "symbol": "CXMT-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 6.1083,
+    "created_time": "2026-11-06T02:49:13.669381+00:00",
+    "score": 79
+  },
+  "FARTCOIN-USDT-SWAP_LONG": {
+    "symbol": "FARTCOIN-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.1171175,
+    "created_time": "2026-11-06T02:49:13.669381+00:00",
+    "score": 40
+  },
+  "KORU-USDT-SWAP_LONG": {
+    "symbol": "KORU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 7.30875,
+    "created_time": "2026-11-06T02:49:13.669381+00:00",
+    "score": 71
+  },
+  "SNXX-USDT-SWAP_LONG": {
+    "symbol": "SNXX-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 3.5471,
+    "created_time": "2026-11-06T02:49:13.669381+00:00",
+    "score": 76
+  },
+  "ZHONGJI-USDT-SWAP_LONG": {
+    "symbol": "ZHONGJI-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 72.52625,
+    "created_time": "2026-11-06T02:49:13.669381+00:00",
+    "score": 75
+  }
+}
