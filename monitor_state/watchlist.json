@@ -1,16 +1,1 @@
-{
-  "SNDK-USDT-SWAP_LONG": {
-    "symbol": "SNDK-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 838.8875,
-    "created_time": "2026-11-06T17:27:48.158786+00:00",
-    "score": 56
-  },
-  "ZEC-USDT-SWAP_LONG": {
-    "symbol": "ZEC-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 1334.9025,
-    "created_time": "2026-11-06T17:27:48.158786+00:00",
-    "score": 45
-  }
-}
+{}
