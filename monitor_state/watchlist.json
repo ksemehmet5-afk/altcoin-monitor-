@@ -1,9 +1,9 @@
 {
-  "ONE-USDT-SWAP_SHORT": {
-    "symbol": "ONE-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.00202186125,
-    "created_time": "2026-11-07T14:58:24.686058+00:00",
-    "score": 77
+  "BTW-USDT-SWAP_LONG": {
+    "symbol": "BTW-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1.231295,
+    "created_time": "2026-11-07T19:15:55.464184+00:00",
+    "score": 51
   }
 }
