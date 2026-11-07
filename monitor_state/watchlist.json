@@ -1,9 +1,9 @@
 {
-  "AKE-USDT-SWAP_SHORT": {
-    "symbol": "AKE-USDT-SWAP",
+  "ONE-USDT-SWAP_SHORT": {
+    "symbol": "ONE-USDT-SWAP",
     "direction": "SHORT",
-    "target_level": 0.005893499999999999,
-    "created_time": "2026-11-07T08:15:46.775595+00:00",
-    "score": 69
+    "target_level": 0.00202186125,
+    "created_time": "2026-11-07T14:58:24.686058+00:00",
+    "score": 77
   }
 }
