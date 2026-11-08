@@ -1,1 +1,23 @@
-{}
+{
+  "AKE-USDT-SWAP_LONG": {
+    "symbol": "AKE-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.005571475,
+    "created_time": "2026-11-08T08:29:31.933255+00:00",
+    "score": 60
+  },
+  "APR-USDT-SWAP_LONG": {
+    "symbol": "APR-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.04136375,
+    "created_time": "2026-11-08T08:29:31.933255+00:00",
+    "score": 41
+  },
+  "BTW-USDT-SWAP_LONG": {
+    "symbol": "BTW-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 1.2131875,
+    "created_time": "2026-11-08T08:29:31.933255+00:00",
+    "score": 51
+  }
+}
