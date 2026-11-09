@@ -6,11 +6,18 @@
     "created_time": "2026-11-08T23:18:40.583533+00:00",
     "score": 45
   },
-  "SOXS-USDT-SWAP_LONG": {
-    "symbol": "SOXS-USDT-SWAP",
+  "SOXL-USDT-SWAP_SHORT": {
+    "symbol": "SOXL-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 47.172375,
+    "created_time": "2026-11-09T02:49:41.233336+00:00",
+    "score": 49
+  },
+  "ZHONGJI-USDT-SWAP_LONG": {
+    "symbol": "ZHONGJI-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 72.887375,
-    "created_time": "2026-11-08T23:18:40.583533+00:00",
-    "score": 79
+    "target_level": 72.33575,
+    "created_time": "2026-11-09T02:49:41.233336+00:00",
+    "score": 67
   }
 }
