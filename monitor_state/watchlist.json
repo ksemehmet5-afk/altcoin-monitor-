@@ -1,16 +1,1 @@
-{
-  "CXMT-USDT-SWAP_LONG": {
-    "symbol": "CXMT-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 6.0040000000000004,
-    "created_time": "2026-11-10T03:31:16.412610+00:00",
-    "score": 61
-  },
-  "GRAM-USDT-SWAP_SHORT": {
-    "symbol": "GRAM-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 1.088975,
-    "created_time": "2026-11-10T03:31:16.412610+00:00",
-    "score": 50
-  }
-}
+{}
