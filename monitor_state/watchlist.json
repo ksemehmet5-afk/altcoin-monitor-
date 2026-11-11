@@ -1,1 +1,16 @@
-{}
+{
+  "NIGHT-USDT-SWAP_SHORT": {
+    "symbol": "NIGHT-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.0456728625,
+    "created_time": "2026-11-11T14:11:21.513164+00:00",
+    "score": 40
+  },
+  "OKB-USDT-SWAP_LONG": {
+    "symbol": "OKB-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 97.249,
+    "created_time": "2026-11-11T14:11:21.513164+00:00",
+    "score": 51
+  }
+}
