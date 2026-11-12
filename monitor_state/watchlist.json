@@ -1,1 +1,9 @@
-{}
+{
+  "INIT-USDT-SWAP_SHORT": {
+    "symbol": "INIT-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.11167875,
+    "created_time": "2026-11-12T23:15:10.611033+00:00",
+    "score": 71
+  }
+}
