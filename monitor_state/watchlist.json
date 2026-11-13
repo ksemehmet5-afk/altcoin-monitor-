@@ -1,9 +1,16 @@
 {
-  "INIT-USDT-SWAP_SHORT": {
-    "symbol": "INIT-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.11167875,
-    "created_time": "2026-11-12T23:15:10.611033+00:00",
-    "score": 71
+  "SOXS-USDT-SWAP_LONG": {
+    "symbol": "SOXS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 45.997749999999996,
+    "created_time": "2026-11-13T03:25:42.668093+00:00",
+    "score": 55
+  },
+  "ZHONGJI-USDT-SWAP_LONG": {
+    "symbol": "ZHONGJI-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 76.21525,
+    "created_time": "2026-11-13T03:25:42.668093+00:00",
+    "score": 79
   }
 }
