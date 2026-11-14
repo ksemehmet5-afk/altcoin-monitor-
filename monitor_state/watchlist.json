@@ -1,16 +1,1 @@
-{
-  "AKE-USDT-SWAP_SHORT": {
-    "symbol": "AKE-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.012618787499999999,
-    "created_time": "2026-11-13T23:51:48.233361+00:00",
-    "score": 57
-  },
-  "BCH-USDT-SWAP_SHORT": {
-    "symbol": "BCH-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 223.42875,
-    "created_time": "2026-11-13T23:51:48.233361+00:00",
-    "score": 49
-  }
-}
+{}
