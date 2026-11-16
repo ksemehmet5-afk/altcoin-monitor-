@@ -1,1 +1,9 @@
-{}
+{
+  "TQQQ-USDT-SWAP_LONG": {
+    "symbol": "TQQQ-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 57.65025000000001,
+    "created_time": "2026-11-16T00:21:08.707731+00:00",
+    "score": 83
+  }
+}
