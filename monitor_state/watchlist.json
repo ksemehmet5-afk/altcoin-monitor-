@@ -1,37 +1,51 @@
 {
-  "AXTI-USDT-SWAP_LONG": {
-    "symbol": "AXTI-USDT-SWAP",
+  "EWY-USDT-SWAP_LONG": {
+    "symbol": "EWY-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 35.99225,
-    "created_time": "2026-11-17T17:43:08.473862+00:00",
-    "score": 66
+    "target_level": 138.12525,
+    "created_time": "2026-11-17T23:57:32.573892+00:00",
+    "score": 50
   },
-  "CXMT-USDT-SWAP_SHORT": {
-    "symbol": "CXMT-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 5.3217,
-    "created_time": "2026-11-17T17:43:08.473862+00:00",
-    "score": 54
-  },
-  "MMT-USDT-SWAP_SHORT": {
-    "symbol": "MMT-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.14367375,
-    "created_time": "2026-11-17T17:43:08.473862+00:00",
-    "score": 61
-  },
-  "PENGU-USDT-SWAP_LONG": {
-    "symbol": "PENGU-USDT-SWAP",
+  "NBIS-USDT-SWAP_LONG": {
+    "symbol": "NBIS-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.004533825,
-    "created_time": "2026-11-17T17:43:08.473862+00:00",
-    "score": 65
+    "target_level": 115.31037500000001,
+    "created_time": "2026-11-17T23:57:32.573892+00:00",
+    "score": 62
   },
-  "TSM-USDT-SWAP_LONG": {
-    "symbol": "TSM-USDT-SWAP",
+  "NEAR-USDT-SWAP_LONG": {
+    "symbol": "NEAR-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 360.81875,
-    "created_time": "2026-11-17T17:43:08.473862+00:00",
-    "score": 60
+    "target_level": 3.3416999999999994,
+    "created_time": "2026-11-17T23:57:32.573892+00:00",
+    "score": 52
+  },
+  "PONS-USDT-SWAP_LONG": {
+    "symbol": "PONS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.11799,
+    "created_time": "2026-11-17T23:57:32.573892+00:00",
+    "score": 39
+  },
+  "SAMSUNG-USDT-SWAP_LONG": {
+    "symbol": "SAMSUNG-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 146.693125,
+    "created_time": "2026-11-17T23:57:32.573892+00:00",
+    "score": 68
+  },
+  "USELESS-USDT-SWAP_LONG": {
+    "symbol": "USELESS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.09544187499999998,
+    "created_time": "2026-11-17T23:57:32.573892+00:00",
+    "score": 35
+  },
+  "ZHIPU-USDT-SWAP_LONG": {
+    "symbol": "ZHIPU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 44.88187500000001,
+    "created_time": "2026-11-17T23:57:32.573892+00:00",
+    "score": 59
   }
 }
