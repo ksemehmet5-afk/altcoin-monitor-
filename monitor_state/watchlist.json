@@ -1,16 +1,16 @@
 {
-  "UP-USDT-SWAP_LONG": {
-    "symbol": "UP-USDT-SWAP",
+  "PIEVERSE-USDT-SWAP_LONG": {
+    "symbol": "PIEVERSE-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.20085749999999997,
-    "created_time": "2026-11-18T05:53:46.723241+00:00",
-    "score": 54
+    "target_level": 3.1588149999999997,
+    "created_time": "2026-11-18T14:50:05.701928+00:00",
+    "score": 60
   },
-  "ZHONGJI-USDT-SWAP_LONG": {
-    "symbol": "ZHONGJI-USDT-SWAP",
+  "SNDK-USDT-SWAP_LONG": {
+    "symbol": "SNDK-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 65.27175,
-    "created_time": "2026-11-18T05:53:46.723241+00:00",
-    "score": 93
+    "target_level": 773.8375,
+    "created_time": "2026-11-18T14:50:05.701928+00:00",
+    "score": 71
   }
 }
