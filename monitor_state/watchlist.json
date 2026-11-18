@@ -1,16 +1,9 @@
 {
-  "PIEVERSE-USDT-SWAP_LONG": {
-    "symbol": "PIEVERSE-USDT-SWAP",
+  "UP-USDT-SWAP_LONG": {
+    "symbol": "UP-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 3.1588149999999997,
-    "created_time": "2026-11-18T14:50:05.701928+00:00",
-    "score": 60
-  },
-  "SNDK-USDT-SWAP_LONG": {
-    "symbol": "SNDK-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 773.8375,
-    "created_time": "2026-11-18T14:50:05.701928+00:00",
-    "score": 71
+    "target_level": 0.208165,
+    "created_time": "2026-11-18T22:25:36.624490+00:00",
+    "score": 48
   }
 }
