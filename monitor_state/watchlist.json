@@ -1,16 +1,1 @@
-{
-  "HUMA-USDT-SWAP_SHORT": {
-    "symbol": "HUMA-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 0.010034887499999999,
-    "created_time": "2026-11-20T01:50:58.810412+00:00",
-    "score": 77
-  },
-  "UNITREE-USDT-SWAP_SHORT": {
-    "symbol": "UNITREE-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 88.1225,
-    "created_time": "2026-11-20T01:50:58.810412+00:00",
-    "score": 80
-  }
-}
+{}
