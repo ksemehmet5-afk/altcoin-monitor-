@@ -1,16 +1,9 @@
 {
-  "PEPE-USDT-SWAP_SHORT": {
-    "symbol": "PEPE-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 3.4069399999999998e-06,
-    "created_time": "2026-11-21T12:51:49.933341+00:00",
-    "score": 43
-  },
-  "WIF-USDT-SWAP_LONG": {
-    "symbol": "WIF-USDT-SWAP",
+  "CAP-USDT-SWAP_LONG": {
+    "symbol": "CAP-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 0.11514250000000001,
-    "created_time": "2026-11-21T12:51:49.933341+00:00",
-    "score": 50
+    "target_level": 0.08826275,
+    "created_time": "2026-11-21T19:52:36.731267+00:00",
+    "score": 33
   }
 }
