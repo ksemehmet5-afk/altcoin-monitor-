@@ -1,16 +1,1 @@
-{
-  "MMT-USDT-SWAP_LONG": {
-    "symbol": "MMT-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.2245775,
-    "created_time": "2026-11-22T13:37:20.089359+00:00",
-    "score": 60
-  },
-  "NIGHT-USDT-SWAP_LONG": {
-    "symbol": "NIGHT-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.047536274999999996,
-    "created_time": "2026-11-22T13:37:20.089359+00:00",
-    "score": 36
-  }
-}
+{}
