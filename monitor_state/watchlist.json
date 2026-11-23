@@ -1,1 +1,23 @@
-{}
+{
+  "AMD-USDT-SWAP_LONG": {
+    "symbol": "AMD-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 448.65500000000003,
+    "created_time": "2026-11-23T01:02:12.245007+00:00",
+    "score": 48
+  },
+  "KORU-USDT-SWAP_LONG": {
+    "symbol": "KORU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 5.1221625,
+    "created_time": "2026-11-23T01:02:12.245007+00:00",
+    "score": 73
+  },
+  "TQQQ-USDT-SWAP_LONG": {
+    "symbol": "TQQQ-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 44.137,
+    "created_time": "2026-11-23T01:02:12.245007+00:00",
+    "score": 52
+  }
+}
