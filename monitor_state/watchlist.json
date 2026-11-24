@@ -1,9 +1,65 @@
 {
-  "SAMSUNG-USDT-SWAP_LONG": {
-    "symbol": "SAMSUNG-USDT-SWAP",
+  "AKE-USDT-SWAP_SHORT": {
+    "symbol": "AKE-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.00212175,
+    "created_time": "2026-11-24T05:03:38.006580+00:00",
+    "score": 62
+  },
+  "ENA-USDT-SWAP_SHORT": {
+    "symbol": "ENA-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 0.10315350000000001,
+    "created_time": "2026-11-24T05:03:38.006580+00:00",
+    "score": 42
+  },
+  "MMT-USDT-SWAP_LONG": {
+    "symbol": "MMT-USDT-SWAP",
     "direction": "LONG",
-    "target_level": 143.1735,
-    "created_time": "2026-11-23T20:52:16.049048+00:00",
-    "score": 54
+    "target_level": 0.22331,
+    "created_time": "2026-11-24T05:03:38.006580+00:00",
+    "score": 46
+  },
+  "MON-USDT-SWAP_LONG": {
+    "symbol": "MON-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.012926375,
+    "created_time": "2026-11-24T05:03:38.006580+00:00",
+    "score": 63
+  },
+  "PEPE-USDT-SWAP_SHORT": {
+    "symbol": "PEPE-USDT-SWAP",
+    "direction": "SHORT",
+    "target_level": 3.5950837500000002e-06,
+    "created_time": "2026-11-24T05:03:38.006580+00:00",
+    "score": 51
+  },
+  "UP-USDT-SWAP_LONG": {
+    "symbol": "UP-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.1975,
+    "created_time": "2026-11-24T05:03:38.006580+00:00",
+    "score": 50
+  },
+  "USELESS-USDT-SWAP_LONG": {
+    "symbol": "USELESS-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 0.0763575,
+    "created_time": "2026-11-24T05:03:38.006580+00:00",
+    "score": 39
+  },
+  "ZEC-USDT-SWAP_LONG": {
+    "symbol": "ZEC-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 755.1610000000001,
+    "created_time": "2026-11-24T05:03:38.006580+00:00",
+    "score": 53
+  },
+  "ZHIPU-USDT-SWAP_LONG": {
+    "symbol": "ZHIPU-USDT-SWAP",
+    "direction": "LONG",
+    "target_level": 41.60337500000001,
+    "created_time": "2026-11-24T05:03:38.006580+00:00",
+    "score": 94
   }
 }
