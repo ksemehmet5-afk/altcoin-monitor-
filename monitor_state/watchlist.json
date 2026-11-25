@@ -1,16 +1,1 @@
-{
-  "BTW-USDT-SWAP_LONG": {
-    "symbol": "BTW-USDT-SWAP",
-    "direction": "LONG",
-    "target_level": 0.8036125,
-    "created_time": "2026-11-25T00:14:45.450181+00:00",
-    "score": 29
-  },
-  "SOXS-USDT-SWAP_SHORT": {
-    "symbol": "SOXS-USDT-SWAP",
-    "direction": "SHORT",
-    "target_level": 62.71875,
-    "created_time": "2026-11-25T00:14:45.450181+00:00",
-    "score": 78
-  }
-}
+{}
